@@ -13,6 +13,7 @@ AFRN85
 AIGLEbisRetour
 Al_Nikolic
 alainpaulweber
+AlmadiesBzh
 AlexandreLoubet
 AlexandreRifai
 AlexandreVaraut
@@ -402,6 +403,7 @@ PuyduFou
 QueenFirmAction
 radiocourtoisie
 radouan_kourak
+RafaelSereti
 RAFOrafo
 ReaActuelle
 realbahia_carla

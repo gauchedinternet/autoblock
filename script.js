@@ -15,50 +15,138 @@
 
 // Use of an Immediately Invoked Function Expression (IIFE) to avoid polluting the global scope.
 
-window.addEventListener('load', function() {
+window.addEventListener('load', function () {
     'use strict'; // Enforcing stricter parsing and error handling in the script.
-
+  
     console.log('Running Autoblock and Blocklist Creator Script');
-
+  
     const configs = {
-        "www.instagram.com" : {
-            // Key to access Instagram block list in localStorage.
-
-            blockListKey : 'instagramBlockList',
-            profileUrl : (username) => {return `https://www.instagram.com/${username}`},
-            actions_list : [
-                {info : "Searching for option button", target : '[role="button"]:has([aria-label="Options"])', action : "click", timeout: 5000, sleep:1000},
-                {info : "Searching for follow button", target : 'button:nth-child(1)', action : "store", timeout: 5000, sleep:1000},
-                {info : "Searching for block button", target : '[role="dialog"] button:nth-child(1)', action : "click", check : (self,stored) => {return self.innerText !== stored.at(-1)} , timeout: 5000, sleep:1000},
-                {info : "Searching for block confirmation button", target : '[role="dialog"] button:nth-child(1):nth-last-of-type(2)', action : "click", timeout: 5000, sleep:1000},
-            ]
+      "www.instagram.com": {
+        // Key to access Instagram block list in localStorage.
+  
+        blockListKey: 'instagramBlockList',
+        profileUrl: (username) => {
+          return `https://www.instagram.com/${username}`
         },
-        "www.tiktok.com" : {
-            // Key to access TikTok block list in localStorage.
-            blockListKey : 'tiktokBlockList',
-            profileUrl : (username) => {
-                username = username.startsWith("@") ? username : "@" + username
-                return `https://www.tiktok.com/${username}`
+        actions_list: [
+          {
+            info: "Searching for option button",
+            target: '[role="button"]:has([aria-label="Options"])',
+            action: "click",
+            timeout: 5000,
+            sleep: 1000
+          },
+          {
+            info: "Searching for follow button",
+            target: 'button:nth-child(1)',
+            action: "store",
+            timeout: 5000,
+            sleep: 1000
+          },
+          {
+            info: "Searching for block button",
+            target: '[role="dialog"] button:nth-child(1)',
+            action: "click",
+            check: (self, stored) => {
+              return self.innerText !== stored.at(-1)
             },
-            actions_list : [
-                {info : "Searching for option button", target : '[data-e2e="user-more"]', action : "mouseover", timeout: 5000, sleep:1000},
-                {info : "Searching for follow button", target : '[data-e2e="follow-button"]', action : "store", timeout: 5000, sleep:1000},
-                {info : "Searching for block button", target : '[data-e2e="user-report"] [role="button"]:nth-last-of-type(1)', action : "click", check : (self,stored) => {return self.innerText !== stored.at(-1)}, timeout: 5000, sleep:1000},
-                {info : "Searching for block confirmation button", target : 'button[data-e2e="block-popup-block-btn"]', action : "click", timeout: 5000, sleep:1000},
-            ]
+            timeout: 5000,
+            sleep: 1000
+          },
+          {
+            info: "Searching for block confirmation button",
+            target: '[role="dialog"] button:nth-child(1):nth-last-of-type(2)',
+            action: "click",
+            timeout: 5000,
+            sleep: 1000
+          },
+        ]
+      },
+      "www.tiktok.com": {
+        // Key to access TikTok block list in localStorage.
+        blockListKey: 'tiktokBlockList',
+        profileUrl: (username) => {
+          username = username.startsWith("@") ? username : "@" + username
+          return `https://www.tiktok.com/${username}`
         },
-        "x.com" : {
-            // Key to access Twitter(X) block list in localStorage.
+        actions_list: [
+          {
+            info: "Searching for option button",
+            target: '[data-e2e="user-more"]',
+            action: "mouseover",
+            timeout: 5000,
+            sleep: 1000
+          },
+          {
+            info: "Searching for follow button",
+            target: '[data-e2e="follow-button"]',
+            action: "store",
+            timeout: 5000,
+            sleep: 1000
+          },
+          {
+            info: "Searching for block button",
+            target: '[data-e2e="user-report"] [role="button"]:nth-last-of-type(1)',
+            action: "click",
+            check: (self, stored) => {
+              return self.innerText !== stored.at(-1)
+            },
+            timeout: 5000,
+            sleep: 1000
+          },
+          {
+            info: "Searching for block confirmation button",
+            target: 'button[data-e2e="block-popup-block-btn"]',
+            action: "click",
+            timeout: 5000,
+            sleep: 1000
+          },
+        ]
+      },
+      "x.com": {
+        // Key to access Twitter(X) block list in localStorage.
 
-            blockListKey : 'xBlockList',
-            profileUrl : (username) => {return `https://x.com/${username}`},
-            actions_list : [
-                {info : "Searching for option button", target : '[data-testid="userActions"]', action : "click", timeout: 5000, sleep:1000},
-                {info : "Searching for follow button", target : '[data-testid="placementTracking"]', action : "store", timeout: 5000, sleep:1000},
-                {info : "Searching for block button", target : '[data-testid="block"]', action : "click", check : (self,stored) => {return self.innerText !== stored.at(-1)} , timeout: 5000, sleep:1000},
-                {info : "Searching for block confirmation button", target : '[data-testid="confirmationSheetConfirm"]', action : "click", timeout: 5000, sleep:1000},
-            ]
+        blockListKey: 'xBlockList',
+        profileUrl: (username) => {
+          return `https://x.com/${username}`
         },
+        actions_list: [
+          {
+            info: "Searching for option button",
+            target: '[data-testid="userActions"]',
+            action: "click",
+            timeout: 5000,
+            sleep: 1000
+          },
+          {
+            info: "Searching for follow button",
+            target: '[data-testid="placementTracking"]',
+            action: "store",
+            timeout: 5000,
+            sleep: 1000
+          },
+          {
+            info: "Searching for block button",
+            target: '[data-testid="block"]',
+            action: "click",
+            check: (self, stored) => {
+              return self.innerText.split('Débloquer').length - 1 == 0 || self.innerText !== stored.at(-1)
+            },
+            timeout: 5000,
+            sleep: 1000
+          },
+          {
+            info: "Searching for block confirmation button",
+            target: '[data-testid="confirmationSheetConfirm"]',
+            check: (self, stored) => {
+              return self.innerText.split('Débloquer').length - 1 == 0;
+            },
+            action: "click",
+            timeout: 5000,
+            sleep: 1000
+          },
+        ]
+      },
     }
 
     // Initialize the script by checking if there's a post-navigation task to be performed.
@@ -71,7 +159,7 @@ window.addEventListener('load', function() {
     function checkForPostNavigationTask() {
         const task = JSON.parse(localStorage.getItem('autoBlock') || "{}");
         if (task.username) {
-            performBlockOperation(task).then(() => {});
+            performBlockOperation(task).then(() => { });
         }
     }
 
@@ -97,7 +185,7 @@ window.addEventListener('load', function() {
         let store = []
         let blocked = true
 
-        for (let action of configs[host].actions_list){
+        for (let action of configs[host].actions_list) {
 
             console.info(action.info)
             let target
@@ -111,7 +199,7 @@ window.addEventListener('load', function() {
 
             if (!target) break
 
-            if (action.check && !action.check(target,store)) break
+            if (action.check && !action.check(target, store)) break
 
             if (action.action === "store") {
                 store.push(target.textContent)
@@ -128,9 +216,9 @@ window.addEventListener('load', function() {
         handleNextUser()
     }
 
-     /**
-     * Processes the next user in the queue.
-     */
+    /**
+    * Processes the next user in the queue.
+    */
     function handleNextUser() {
         const users = JSON.parse(localStorage.getItem('autoBlockQueue') || '[]');
         if (users.length > 0) {
@@ -188,8 +276,6 @@ window.addEventListener('load', function() {
 
     // Initialize the user interface.
     function init() {
-
-
         const card = createCard('Block List Manager');
 
         createFileInput(card);
@@ -255,7 +341,7 @@ window.addEventListener('load', function() {
 
     // Create the main UI card that hosts all UI elements.
     function createCard(cardTitle) {
-        if ( localStorage.getItem('cardDisplay') == null) {
+        if (localStorage.getItem('cardDisplay') == null) {
             localStorage.setItem('cardDisplay', "none")
         }
 
