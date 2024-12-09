@@ -4,9 +4,7 @@ import {simulateMouseEvent, sleep, waitForElement} from "./utils";
 
 export class Autoblock {
     static async init() {
-        Storage.init()
-
-        if (!Storage.data.state){
+        if (!Storage.data.state) {
             return;
         }
 
@@ -29,14 +27,13 @@ export class Autoblock {
 
         let blocked = await this.performBlockOperation(host);
 
-        if (blocked){
+        if (blocked) {
             Storage.data.blocked++
-        }
-        else {
+        } else {
             Storage.data.notBlocked++
         }
 
-        if (Storage.accountLength() > 0){
+        if (Storage.accountLength() > 0) {
             Storage.popAccount()
         }
 
@@ -45,7 +42,7 @@ export class Autoblock {
         await this.init()
     }
 
-     static async startStopResume(){
+    static async startStopResume() {
         Storage.resetCounters()
         Storage.switchState()
         await this.init()
@@ -56,23 +53,21 @@ export class Autoblock {
         let store = Array<string>()
         let blocked = true
 
-        for (let action of configs[host].actionsList){
+        for (let action of configs[host].actionsList) {
 
             console.info(action.info)
             try {
                 let target = await waitForElement(action.target, action.timeout)
 
-                if (action.check && !action.check(target,store)) break
+                if (action.check && !action.check(target, store)) break
 
                 if (action.action === "store") {
                     if (target.textContent === null) {
                         store.push("")
-                    }
-                    else {
+                    } else {
                         store.push(target.textContent)
                     }
-                }
-                else {
+                } else {
                     simulateMouseEvent(target, action.action);
                 }
 
