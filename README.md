@@ -1,4 +1,4 @@
-# Autoblock
+# AutoblockSvelte
 
 | Credits |
 |----------|

@@ -1,10 +1,11 @@
 import type {configsT} from "./types";
 
 export let configs: configsT = {
-    "www.instagram.com": {
+    "instagram": {
         // Key to access Instagram block list in localStorage.
 
-        blockListKey: 'instagramBlockList',
+        key: 'instagram',
+        name: 'Instagram',
         profileUrl: (username: string) => {
             return `https://www.instagram.com/${username}`
         },
@@ -42,9 +43,10 @@ export let configs: configsT = {
             },
         ]
     },
-    "www.tiktok.com": {
+    "tiktok": {
         // Key to access TikTok block list in localStorage.
-        blockListKey: 'tiktokBlockList',
+        key: 'tiktok',
+        name: 'Tiktok',
         profileUrl: (username: string) => {
             username = username.startsWith("@") ? username : "@" + username
             return `https://www.tiktok.com/${username}`
@@ -83,10 +85,11 @@ export let configs: configsT = {
             },
         ]
     },
-    "x.com": {
+    "twitter": {
         // Key to access Twitter(X) block list in localStorage.
 
-        blockListKey: 'xBlockList',
+        key: 'twitter',
+        name: 'X',
         profileUrl: (username: string) => {
             return `https://x.com/${username}`
         },
@@ -131,9 +134,9 @@ export let configs: configsT = {
             },
         ]
     },
-    "bsky.app": {
-        // Key to access blueskyapp block list in localStorage.
-        blockListKey: 'bskyBlockList',
+    "bsky": {
+        key: 'bsky',
+        name: 'BlueSky',
         profileUrl: (username: string) => {
             return `https://bsky.app/profile/${username}`
         },

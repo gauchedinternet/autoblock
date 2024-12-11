@@ -1,21 +1,44 @@
 import {Account, type MyInputEvent} from "./types";
-
 class StorageBase {
     public account: Account[] = []
     public blocked: number = 0
     public notBlocked: number = 0
-    public state: boolean = false // true to execute blocking, false to stop it
-    public hide: boolean = false
+    public state: boolean = $state(false) // true to execute blocking, false to stop it
+    public hide: boolean = $state(false)
+    public loaded: boolean = $state(false)
+
+    public reset(){
+        this.account = []
+        this.blocked = 0
+        this.notBlocked = 0
+        this.state = false
+        this.loaded = false
+    }
+    public load(obj:StorageBase){
+        this.account = obj.account
+        this.blocked = obj.blocked
+        this.notBlocked = obj.notBlocked
+        this.state = obj.state||false
+        this.loaded = obj.loaded||false
+        this.hide = obj.hide||false
+    }
 }
 
-export class Storage {
+
+
+export class StorageSvelte {
 
     static data: StorageBase = new StorageBase();
+
+    static reset(): void {
+        this.data.reset()
+        this.save()
+    }
 
     static init() {
         let l = localStorage.getItem("autoBlock")
         if (l !== null) {
-            this.data = JSON.parse(l)
+            this.data.load(JSON.parse(l))
         }
     }
 
@@ -40,7 +63,6 @@ export class Storage {
 
     static writeAccount(data: Account[]) {
         this.data.account = data
-        this.save()
     }
 
     static switchState() {
@@ -70,5 +92,23 @@ export class Storage {
         )
 
         this.writeAccount(entries)
+        this.data.state = true
+        this.save()
+    }
+
+    static async loadFromKey(key: string) {
+
+        const file = await GM.xmlHttpRequest({ url: `https://raw.githubusercontent.com/gauchedinternet/autoblock/refs/heads/main/listes/${key}.txt`});
+        const text = file.responseText;
+        console.log(file, text)
+        const entries = text.split(/\r?\n/).map(
+            (line: string) => {
+                return new Account(key, line)
+            }
+        )
+
+        this.writeAccount(entries)
+        this.data.state = true
+        this.save()
     }
 }

@@ -8,7 +8,8 @@ interface Action {
 }
 
 interface Task {
-    blockListKey: string;
+    key: string;
+    name: string;
     profileUrl: (username: string) => string;
     actionsList: Action[]
 }

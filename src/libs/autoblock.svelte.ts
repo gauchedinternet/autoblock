@@ -1,18 +1,16 @@
-import {Storage} from "./storage";
+import {StorageSvelte} from "./storage.svelte";
 import {configs} from "./config";
 import {simulateMouseEvent, sleep, waitForElement} from "./utils";
 
-export class Autoblock {
+export class AutoblockSvelte {
     static async init() {
-        if (!Storage.data.state) {
-            return;
-        }
+        if (!StorageSvelte.data.state) return
 
-        const account = Storage.lookAccount();
+        const account = StorageSvelte.lookAccount();
 
         if (!account) {
             console.log(`All the users were blocked!`);
-            Storage.switchState()
+            StorageSvelte.switchState()
             window.location.href = window.location.host;
             return
         }
@@ -28,34 +26,38 @@ export class Autoblock {
         let blocked = await this.performBlockOperation(host);
 
         if (blocked) {
-            Storage.data.blocked++
+            StorageSvelte.data.blocked++
         } else {
-            Storage.data.notBlocked++
+            StorageSvelte.data.notBlocked++
         }
 
-        if (Storage.accountLength() > 0) {
-            Storage.popAccount()
+        if (StorageSvelte.accountLength() > 0) {
+            StorageSvelte.popAccount()
         }
 
-        Storage.save()
+        StorageSvelte.save()
+
+        await sleep(3000)
 
         await this.init()
     }
 
-    static async startStopResume() {
-        Storage.resetCounters()
-        Storage.switchState()
+    static async startPause() {
+        StorageSvelte.switchState()
         await this.init()
+    }
+
+    static async stop() {
+        StorageSvelte.reset()
+        console.log(StorageSvelte.data)
     }
 
     static async performBlockOperation(host: string) {
 
         let store = Array<string>()
-        let blocked = true
 
         for (let action of configs[host].actionsList) {
-
-            console.info(action.info)
+            if (!StorageSvelte.data.state) return false
             try {
                 let target = await waitForElement(action.target, action.timeout)
 
@@ -73,13 +75,10 @@ export class Autoblock {
 
                 await sleep(action.sleep)
             } catch (error) {
-                blocked = false
                 console.trace(error)
-                break
+                return false
             }
-
         }
-
-        return blocked
+        return true
     }
 }
