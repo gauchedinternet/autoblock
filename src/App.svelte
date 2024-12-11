@@ -5,6 +5,7 @@
     import Home from "./components/Home.svelte";
     import Header from "./components/Header.svelte";
     import Running from "./components/Running.svelte";
+    import './app.css';
 
     console.log(StorageSvelte.data)
     StorageSvelte.init()
@@ -23,9 +24,9 @@
             <div class="p-4 space-y-4">
                 {StorageSvelte.data.loaded}
                 {#if StorageSvelte.data.loaded}
-                    <Home></Home>
-                {:else}
                     <Running></Running>
+                {:else}
+                    <Home></Home>
                 {/if}
             </div>
         </div>

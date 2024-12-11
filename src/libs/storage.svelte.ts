@@ -18,9 +18,17 @@ class StorageBase {
         this.account = obj.account
         this.blocked = obj.blocked
         this.notBlocked = obj.notBlocked
-        this.state = obj.state||false
-        this.loaded = obj.loaded||false
-        this.hide = obj.hide||false
+        this.state = obj.state
+        this.loaded = obj.loaded
+        this.hide = obj.hide
+    }
+
+    public export(){
+        let data = JSON.parse(JSON.stringify(this))
+        data.state = this.state
+        data.loaded = this.loaded
+        data.hide = this.hide
+        return JSON.stringify(data)
     }
 }
 
@@ -78,7 +86,7 @@ export class StorageSvelte {
 
 
     static save() {
-        localStorage.setItem("autoBlock", JSON.stringify(this.data))
+        localStorage.setItem("autoBlock", this.data.export())
     }
 
     static async loadFromInputFile(event: MyInputEvent) {
@@ -92,7 +100,7 @@ export class StorageSvelte {
         )
 
         this.writeAccount(entries)
-        this.data.state = true
+        this.data.loaded = true
         this.save()
     }
 
@@ -108,7 +116,7 @@ export class StorageSvelte {
         )
 
         this.writeAccount(entries)
-        this.data.state = true
+        this.data.loaded = true
         this.save()
     }
 }

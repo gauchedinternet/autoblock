@@ -1,12 +1,10 @@
-import './app.css';
 import App from './App.svelte';
+import { mount } from 'svelte';
 
-const app = new App({
-    target: (() => {
+const app = mount(App, { target: (() => {
         const app = document.createElement('div');
         document.body.append(app);
         return app;
-    })(),
-});
+    })(), });
 
 export default app;
