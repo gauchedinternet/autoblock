@@ -7,10 +7,7 @@
     import Running from "./components/Running.svelte";
     import './app.css';
 
-    console.log(StorageSvelte.data)
-    StorageSvelte.init()
     AutoblockSvelte.init()
-    console.log(StorageSvelte.data)
 
 </script>
 

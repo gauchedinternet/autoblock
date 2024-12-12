@@ -43,9 +43,9 @@ export class StorageSvelte {
         this.save()
     }
 
-    static init() {
-        let l = localStorage.getItem("autoBlock")
-        if (l !== null) {
+    static async init() {
+        let l = await GM.getValue("autoBlock")
+        if (l !== undefined) {
             this.data.load(JSON.parse(l))
         }
     }
@@ -86,7 +86,7 @@ export class StorageSvelte {
 
 
     static save() {
-        localStorage.setItem("autoBlock", this.data.export())
+        GM.setValue("autoBlock", this.data.export())
     }
 
     static async loadFromInputFile(event: MyInputEvent) {

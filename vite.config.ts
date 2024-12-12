@@ -29,7 +29,7 @@ export default defineConfig({
         match: ["*://*.instagram.com/*","*://*.tiktok.com/*","*://*.x.com/*","*://*.bsky.app/*"],
         version: version,
         description:description,
-        grant:["GM_xmlhttpRequest"],
+        grant:["GM_xmlhttpRequest","GM_getValues","GM_setValues"],
         connect:"raw.githubusercontent.com",
         "run-at":"document-start",
         downloadURL:"https://raw.githubusercontent.com/gauchedinternet/autoblock/main/script.js",

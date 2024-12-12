@@ -4,6 +4,7 @@ import {simulateMouseEvent, sleep, waitForElement} from "./utils";
 
 export class AutoblockSvelte {
     static async init() {
+        await StorageSvelte.init();
         if (!StorageSvelte.data.state) return
 
         const account = StorageSvelte.lookAccount();
