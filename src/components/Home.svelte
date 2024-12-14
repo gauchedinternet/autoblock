@@ -4,31 +4,33 @@
     import {configs} from "../libs/config.js";
 </script>
 
-<h3 class="text-xl font-semibold text-center text-gray-900 dark:text-white">
+<h2>
     Choisissez votre liste de bloquage
-</h3>
+</h2>
 <div class="flex gap-1">
     <div class="flex flex-col gap-2 flex-1">
-        <h4>Parmis nos listes</h4>
-
+        <h3>Parmis nos listes</h3>
 
         {#each Object.values(configs) as item }
             <Button on:click={() => StorageSvelte.loadFromKey(item.key)}>{item.name}</Button>
         {/each}
     </div>
     <span class="border-l-2 border-black h-full"></span>
-    <div class="flex-1 flex-col gap-2 flex-1">
-        <h4>Avec votre propre liste</h4>
+    <div class="flex flex-col gap-2 flex-1">
+        <h3>Avec votre propre liste</h3>
 
-        <label for="dropzone-file" class="flex flex-col items-center justify-center w-full h-full border-2 border-gray-300 border-dashed rounded-lg cursor-pointer bg-gray-50 dark:hover:bg-gray-800 dark:bg-gray-700 hover:bg-gray-100 dark:border-gray-600 dark:hover:border-gray-500 dark:hover:bg-gray-600">
+        <label class="flex flex-col items-center justify-center w-full p-2 border-2 border-default border-dashed rounded-lg cursor-pointer"
+               for="dropzone-file">
             <div class="flex flex-col items-center justify-center pt-5 pb-6">
-                <svg class="w-8 h-8 mb-4 text-gray-500 dark:text-gray-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 16">
-                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 13h3a3 3 0 0 0 0-6h-.025A5.56 5.56 0 0 0 16 6.5 5.5 5.5 0 0 0 5.207 5.021C5.137 5.017 5.071 5 5 5a4 4 0 0 0 0 8h2.167M10 15V6m0 0L8 8m2-2 2 2"/>
+                <svg aria-hidden="true" class="w-8 h-8 mb-4 text-gray-500" fill="none"
+                     viewBox="0 0 20 16" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M13 13h3a3 3 0 0 0 0-6h-.025A5.56 5.56 0 0 0 16 6.5 5.5 5.5 0 0 0 5.207 5.021C5.137 5.017 5.071 5 5 5a4 4 0 0 0 0 8h2.167M10 15V6m0 0L8 8m2-2 2 2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                          stroke-width="2"/>
                 </svg>
-                <p class="mb-2 text-sm text-gray-500 dark:text-gray-400">Cliquez pour envoyer votre fichier ou glissez-le ici</p>
-                <p class="text-xs text-gray-500 dark:text-gray-400">CSV</p>
+                <p class="mb-2 text-sm text-gray-500">Cliquez pour envoyer votre fichier ou glissez-le ici</p>
+                <p class="text-xs text-gray-500">CSV</p>
             </div>
-            <input on:input={(e) => StorageSvelte.loadFromInputFile(e)} id="dropzone-file" type="file" class="hidden" />
+            <input class="hidden" id="dropzone-file" on:input={(e) => StorageSvelte.loadFromInputFile(e)} type="file"/>
         </label>
     </div>
 </div>

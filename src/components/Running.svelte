@@ -1,9 +1,7 @@
 <script lang="ts">
     import {StorageSvelte} from "../libs/storage.svelte";
     import Button from "./Button.svelte";
-    import {AutoblockSvelte} from "../libs/autoblock.svelte";
-
-
+    import * as AutoblockSvelte from "../libs/autoblock.svelte"
 </script>
 
 <div>

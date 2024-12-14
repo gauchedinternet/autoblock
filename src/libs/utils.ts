@@ -1,8 +1,8 @@
-export function sleep(time: number) {
-    return new Promise(resolve => setTimeout(resolve, time));
+export async function sleep(time: number): Promise<void> {
+    await new Promise(resolve => setTimeout(resolve, time));
 }
 
-export function waitForElement(selector: string, timeout: number): Promise<HTMLElement> {
+export async function waitForElement(selector: string, timeout: number): Promise<HTMLElement> {
     return new Promise((resolve, reject) => {
         const intervalTime = 100;
         const endTime = Number(new Date()) + timeout;
@@ -21,13 +21,9 @@ export function waitForElement(selector: string, timeout: number): Promise<HTMLE
     });
 }
 
-export function simulateMouseEvent(element: Element, eventType: string) {
+export function simulateMouseEvent(element: Element, eventType: string) : void {
     console.log(`Simulating ${eventType} event`);
-    const event = new MouseEvent(eventType, {
-        view: window,
-        bubbles: true,
-        cancelable: true
-    });
+    const event = new MouseEvent(eventType, {bubbles: true});
     element.dispatchEvent(event);
     console.log(`${eventType} event triggered`);
 }

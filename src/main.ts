@@ -1,10 +1,10 @@
 import App from './App.svelte';
-import { mount } from 'svelte';
+import {mount} from 'svelte';
 
-const app = mount(App, { target: (() => {
-        const app = document.createElement('div');
-        document.body.append(app);
-        return app;
-    })(), });
-
-export default app;
+mount(App, {
+    target: (() : HTMLDivElement => {
+        const div = document.createElement('div');
+        document.body.appendChild(div);
+        return div;
+    })(),
+});

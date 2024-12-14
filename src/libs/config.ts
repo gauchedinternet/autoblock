@@ -1,6 +1,6 @@
 import type {configsT} from "./types";
 
-export let configs: configsT = {
+export const configs: configsT = {
     "instagram": {
         // Key to access Instagram block list in localStorage.
 
@@ -28,7 +28,7 @@ export let configs: configsT = {
                 info: "Searching for block button",
                 target: '[role="dialog"] button:nth-child(1)',
                 action: "click",
-                check: (self, stored) => {
+                check: (self : HTMLElement, stored : string[]) : boolean => {
                     return self.innerText !== stored.at(-1)
                 },
                 timeout: 5000,
@@ -55,7 +55,7 @@ export let configs: configsT = {
             {
                 info: "Searching for option button",
                 target: '[data-e2e="user-more"]',
-                action: "mouseover",
+                action: "click",
                 timeout: 5000,
                 sleep: 1000
             },
@@ -120,7 +120,7 @@ export let configs: configsT = {
                 target: '[data-testid="block"]',
                 action: "click",
                 check: (self, stored) => {
-                    return !self.innerText.includes(<string>stored.at(-1))
+                    return !self.innerText.includes(stored.at(-1)!)
                 },
                 timeout: 5000,
                 sleep: 1000

@@ -2,84 +2,84 @@ import {StorageSvelte} from "./storage.svelte";
 import {configs} from "./config";
 import {simulateMouseEvent, sleep, waitForElement} from "./utils";
 
-export class AutoblockSvelte {
-    static async init() {
-        await StorageSvelte.init();
-        if (!StorageSvelte.data.state) return
+export async function init() : Promise<void> {
+    await StorageSvelte.init();
+    if (!StorageSvelte.data.state) return
 
-        const account = StorageSvelte.lookAccount();
+    const account = StorageSvelte.lookAccount();
 
-        if (!account) {
-            console.log(`All the users were blocked!`);
-            StorageSvelte.switchState()
-            window.location.href = window.location.host;
-            return
-        }
-
-        let host = account.network
-        let url = configs[host].profileUrl(account.username)
-
-        if (!window.location.href.includes(url)) {
-            window.location.href = url;
-            return;
-        }
-
-        let blocked = await this.performBlockOperation(host);
-
-        if (blocked) {
-            StorageSvelte.data.blocked++
-        } else {
-            StorageSvelte.data.notBlocked++
-        }
-
-        if (StorageSvelte.accountLength() > 0) {
-            StorageSvelte.popAccount()
-        }
-
-        StorageSvelte.save()
-
-        await sleep(3000)
-
-        await this.init()
-    }
-
-    static async startPause() {
+    if (!account) {
+        console.log(`All the users were blocked!`);
         StorageSvelte.switchState()
-        await this.init()
+        window.location.href = window.location.host;
+        return
     }
 
-    static async stop() {
-        StorageSvelte.reset()
-        console.log(StorageSvelte.data)
+    const host = account.network
+    const url = configs[host].profileUrl(account.username)
+
+    if (!window.location.href.includes(url)) {
+        window.location.href = url;
+        return;
     }
 
-    static async performBlockOperation(host: string) {
+    const blocked = await performBlockOperation(host);
 
-        let store = Array<string>()
+    if (blocked) {
+        StorageSvelte.data.blocked++
+    } else {
+        StorageSvelte.data.notBlocked++
+    }
 
-        for (let action of configs[host].actionsList) {
-            if (!StorageSvelte.data.state) return false
-            try {
-                let target = await waitForElement(action.target, action.timeout)
+    if (StorageSvelte.accountLength() > 0) {
+        StorageSvelte.popAccount()
+    }
 
-                if (action.check && !action.check(target, store)) break
+    StorageSvelte.save()
 
-                if (action.action === "store") {
-                    if (target.textContent === null) {
-                        store.push("")
-                    } else {
-                        store.push(target.textContent)
-                    }
+    await sleep(3000)
+
+    await init()
+}
+
+export async function startPause() : Promise<void> {
+    StorageSvelte.switchState()
+    await init()
+}
+
+export function stop() : void {
+    StorageSvelte.reset()
+    console.log(StorageSvelte.data)
+}
+
+async function performBlockOperation(host: string) : Promise<boolean> {
+
+    const store = Array<string>()
+
+    for (const action of configs[host].actionsList) {
+        console.log("tom", action, StorageSvelte.data.state)
+        if (!StorageSvelte.data.state) return false
+        console.log("tom", action, StorageSvelte.data.state)
+        try {
+            const target = await waitForElement(action.target, action.timeout)
+
+            if (action.check && !action.check(target, store)) break
+
+            if (action.action === "store") {
+                if (target.textContent === null) {
+                    store.push("")
                 } else {
-                    simulateMouseEvent(target, action.action);
+                    store.push(target.textContent)
                 }
-
-                await sleep(action.sleep)
-            } catch (error) {
-                console.trace(error)
-                return false
+            } else {
+                simulateMouseEvent(target, action.action);
             }
+
+            await sleep(action.sleep)
+        } catch (error) {
+            console.trace(error)
+            return false
         }
-        return true
     }
+    return true
 }

@@ -1,1 +1,22 @@
 @import "tailwindcss";
+
+@theme {
+    --color-primary-bis: #FECD47;
+    --color-primary: #ECA419;
+    --color-container: #15202B;
+    --color-impact: #A54C0E;
+    --color-default: #FFFFFF;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    @apply text-center;
+}
+
+h1 {
+    @apply text-primary;
+}
+
+h1, h2 {
+    @apply font-semibold  text-xl;
+}

@@ -14,11 +14,12 @@ interface Task {
     actionsList: Action[]
 }
 
+export type configsT = Record<string, Task>
+
 export class Account {
     constructor(public network: string, public username: string) {
     }
 }
 
-export type configsT = { [key: string]: Task };
-
 export type MyInputEvent = Event & { currentTarget: EventTarget & HTMLInputElement; }
+
