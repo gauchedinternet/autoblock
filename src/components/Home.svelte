@@ -9,7 +9,7 @@
 </h2>
 <div class="flex gap-1">
     <div class="flex flex-col gap-2 flex-1">
-        <h3>Parmis nos listes</h3>
+        <h3>Parmi nos listes</h3>
 
         {#each Object.values(configs) as item }
             <Button on:click={() => StorageSvelte.loadFromKey(item.key)}>{item.name}</Button>
