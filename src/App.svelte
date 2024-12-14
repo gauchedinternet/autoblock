@@ -13,7 +13,7 @@
     let handleEl: HTMLElement;
 </script>
 
-<div class="fixed z-[10000] inset-0 max-w-md max-h-96 h-fit rounded-lg ring-gray-900 ring shadow-lg bg-container text-default"
+<div class="fixed z-[10000] inset-0 max-w-xs h-fit rounded-lg ring-gray-900 ring shadow-lg bg-container text-default"
      use:draggable={{defaultPosition:{x:20,y:20}, handle: handleEl}}>
     <Header bind:me={handleEl}></Header>
     {#if StorageSvelte.data.hide  }
