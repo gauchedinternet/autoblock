@@ -1,3 +1,4 @@
+jeanfr37.bsky.social
 cedric691985.bsky.social
 aixqui.bsky.social
 jeanpaul56.bsky.social
@@ -478,7 +479,6 @@ donbsad.bsky.social
 garybee.bsky.social
 pamichelle.bsky.social
 brianna.bsky.social
-coinhogg.bsky.social
 gello-kennedy.bsky.social
 notrobertfkennedy.bsky.social
 deltadawn7.bsky.social
