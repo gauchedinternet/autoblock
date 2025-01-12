@@ -1,3 +1,4 @@
+cedric691985.bsky.social
 aixqui.bsky.social
 jeanpaul56.bsky.social
 johanc20.bsky.social
@@ -480,7 +481,6 @@ brianna.bsky.social
 coinhogg.bsky.social
 gello-kennedy.bsky.social
 notrobertfkennedy.bsky.social
-frankeckstein.bsky.social
 deltadawn7.bsky.social
 awwcmonnow.bsky.social
 downwithwokeness.bsky.social
@@ -617,7 +617,6 @@ anarchmonarch.bsky.social
 swansurf.bsky.social
 sherripollick.bsky.social
 genx-wisdom.bsky.social
-melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
