@@ -606,7 +606,6 @@ sgueli.bsky.social
 magat1971.bsky.social
 blueballs1776.bsky.social
 redwaveatbluesky.bsky.social
-juicysharts.bsky.social
 redwavefactual.bsky.social
 teddyp1776.bsky.social
 jessicae1120.bsky.social
@@ -870,7 +869,7 @@ depassageqc.bsky.social
 midmo.bsky.social
 liberty-infos.bsky.social
 oursmaleche.bsky.social
-gkclevttdepp.bsky.social
+handle.invalid
 theyam38.bsky.social
 xtroos.bsky.social
 cala49.bsky.social
