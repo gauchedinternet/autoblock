@@ -622,7 +622,6 @@ genx-wisdom.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
-gaslightfreezone.bsky.social
 maciemay.bsky.social
 donaldjtrumpy.bsky.social
 thunderhead21.bsky.social
@@ -1098,7 +1097,6 @@ readyburnerone.bsky.social
 grumjum.bsky.social
 sloppyjalopy.bsky.social
 josephmama.bsky.social
-infowars207.bsky.social
 digger9.bsky.social
 jeancool7.bsky.social
 efficientmaster.bsky.social
