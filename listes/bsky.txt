@@ -27,7 +27,6 @@ oryx1.bsky.social
 tarektoverso.bsky.social
 axiome-c.bsky.social
 minadouce.bsky.social
-minabodyfit.bsky.social
 mamanou52.bsky.social
 jmlepen2025.bsky.social
 franck36.bsky.social
@@ -614,7 +613,6 @@ redwavefactual.bsky.social
 teddyp1776.bsky.social
 jessicae1120.bsky.social
 fredziffel228.bsky.social
-captcojones.bsky.social
 smargatoo.bsky.social
 joebravo77.bsky.social
 r2401.bsky.social
