@@ -1,3 +1,6 @@
+adrational.bsky.social
+agallez.bsky.social
+pinouille.bsky.social
 monica-artelette.bsky.social
 alb260158.bsky.social
 miroune.bsky.social
@@ -58,7 +61,6 @@ mfm06340.bsky.social
 fernand666.bsky.social
 patriotefrance.bsky.social
 valeryornitho.bsky.social
-tdjardin.bsky.social
 e2sealop.bsky.social
 gregorylamothe.bsky.social
 sergejean.bsky.social
@@ -624,6 +626,7 @@ genx-wisdom.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
+gaslightfreezone.bsky.social
 maciemay.bsky.social
 donaldjtrumpy.bsky.social
 thunderhead21.bsky.social
