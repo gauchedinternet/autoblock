@@ -626,7 +626,6 @@ r2401.bsky.social
 maybemaybenoit.bsky.social
 anarchmonarch.bsky.social
 swansurf.bsky.social
-sherripollick.bsky.social
 genx-wisdom.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
@@ -820,7 +819,6 @@ la-faucheuse64.bsky.social
 halteconnerie.bsky.social
 booyalezucc.bsky.social
 augustopinochet1.bsky.social
-magaresource.bsky.social
 jeanne75008.bsky.social
 patriotefrancaise.bsky.social
 police-et-realites.bsky.social
@@ -1081,7 +1079,6 @@ dimas12345.bsky.social
 badmoon407.bsky.social
 mjwfreedom.bsky.social
 pcbb1212.bsky.social
-rocketxxx.bsky.social
 yy6170.bsky.social
 endtgewokevirus.bsky.social
 ct23.bsky.social
@@ -1096,10 +1093,8 @@ magaforthewin.bsky.social
 lightya.bsky.social
 jasvxjm.bsky.social
 goudian.bsky.social
-sandile84.bsky.social
 trumpwonbitches.bsky.social
 thefarmer.bsky.social
-corwn.bsky.social
 bloodyodo.bsky.social
 readyburnerone.bsky.social
 grumjum.bsky.social
