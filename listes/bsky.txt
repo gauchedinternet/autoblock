@@ -1,3 +1,7 @@
+lfi-filsdepute.bsky.social
+patrickwright58448.bsky.social
+p6sc6l.bsky.social
+lnzez.bsky.social
 fu-manchu-bzh.bsky.social
 politicards.bsky.social
 toutseul.bsky.social
@@ -133,6 +137,7 @@ colo44.bsky.social
 julofparis.bsky.social
 olivier1802.bsky.social
 paulodelgc.bsky.social
+bernard85.bsky.social
 bluesskyvisitor.bsky.social
 revenezsurx.bsky.social
 wiljateiwaz.bsky.social
@@ -489,7 +494,6 @@ twitler.bsky.social
 patriotbillsmith.bsky.social
 jebaitedj.bsky.social
 californiarefugee.bsky.social
-paulszaszsebes.bsky.social
 rantoncue.bsky.social
 timber2527.bsky.social
 ibookchick.bsky.social
@@ -659,7 +663,6 @@ abbythelibb.bsky.social
 no-sassy-here.bsky.social
 saltydissidentii.bsky.social
 timewizard444.bsky.social
-andrewbreitbart.bsky.social
 darkelon.bsky.social
 aguileraszn.bsky.social
 rachelracer.bsky.social
