@@ -554,7 +554,6 @@ beautist.bsky.social
 ohiodino.bsky.social
 trumpyboy.bsky.social
 newsmax.com
-reajdvance.bsky.social
 atensnut.bsky.social
 benjamindover101.bsky.social
 fallon2468.bsky.social
@@ -672,7 +671,6 @@ abcpodcast.bsky.social
 pendozer.bsky.social
 richardcitizen.bsky.social
 magadonia1776.bsky.social
-wokeisbroke.bsky.social
 jen30.bsky.social
 retiredvetusn.bsky.social
 jabbathewokey.bsky.social
@@ -720,7 +718,6 @@ rachelracer.bsky.social
 wombat32.bsky.social
 demiurge2.bsky.social
 13and60.bsky.social
-amuszementpark.bsky.social
 libertymartin190.bsky.social
 jraff2001.bsky.social
 morisot1.bsky.social
@@ -798,7 +795,6 @@ pat-mccrotch.bsky.social
 wmc914.bsky.social
 rbcv64.bsky.social
 aleahim.bsky.social
-unitedwestand76.bsky.social
 sgueli.bsky.social
 magat1971.bsky.social
 redwavefactual.bsky.social
