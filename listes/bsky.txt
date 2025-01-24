@@ -1,3 +1,13 @@
+left4ever.bsky.social
+thewhiterabbit01.bsky.social
+georges-perrin.bsky.social
+maryhartt330.bsky.social
+christianjean1er.bsky.social
+hubertdelandon.bsky.social
+ampoulehead.bsky.social
+joachim73.bsky.social
+snoopy21.bsky.social
+joan290.bsky.social
 pascal-gagnon.bsky.social
 katell80.bsky.social
 couperet.bsky.social
@@ -25,7 +35,6 @@ revenezlesgauchos.bsky.social
 fajiulong.bsky.social
 superfaf88.bsky.social
 bougeret.fr
-vousavezledroit.bsky.social
 rom31100.bsky.social
 lavraiegauche.bsky.social
 vitetrump.bsky.social
@@ -790,7 +799,6 @@ only-a-sky-no.bsky.social
 grumpyoldpapaw.bsky.social
 tamalehunter.bsky.social
 alberto-alvarado.bsky.social
-randallflagg65.bsky.social
 issiech.bsky.social
 trumpwonharrislost.bsky.social
 finpel-dorred.bsky.social
@@ -827,6 +835,7 @@ maybemaybenoit.bsky.social
 anarchmonarch.bsky.social
 swansurf.bsky.social
 genx-wisdom.bsky.social
+melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
