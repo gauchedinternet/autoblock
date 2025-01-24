@@ -1,3 +1,6 @@
+fildefer2.bsky.social
+distilator.bsky.social
+gogologu.bsky.social
 left4ever.bsky.social
 thewhiterabbit01.bsky.social
 georges-perrin.bsky.social
@@ -309,7 +312,6 @@ thorsteiningvarsen.bsky.social
 padjen.bsky.social
 olympique13.bsky.social
 zeveto.bsky.social
-rac2004.bsky.social
 snake85.bsky.social
 claudemichel.bsky.social
 clbear31.bsky.social
@@ -751,7 +753,6 @@ jraff2001.bsky.social
 morisot1.bsky.social
 crimson2k24.bsky.social
 catturd3.bsky.social
-brown12345.bsky.social
 maskedmarvel.bsky.social
 hatzy.bsky.social
 bluesky-temp-2024.bsky.social
@@ -793,12 +794,10 @@ beaviss.bsky.social
 magamerica2024.bsky.social
 cherylmagaha.bsky.social
 kingtrump47.bsky.social
-ca-ringejeanpierre.bsky.social
 mayomonkeyredux.bsky.social
 only-a-sky-no.bsky.social
 grumpyoldpapaw.bsky.social
 tamalehunter.bsky.social
-alberto-alvarado.bsky.social
 issiech.bsky.social
 trumpwonharrislost.bsky.social
 finpel-dorred.bsky.social
