@@ -1,3 +1,7 @@
+bhanau.bsky.social
+touscontrelfi.bsky.social
+rombelge.bsky.social
+fassty100.bsky.social
 malby2024.bsky.social
 ellision.bsky.social
 prunong.bsky.social
@@ -354,7 +358,6 @@ rschneider2.bsky.social
 wkg91bf.bsky.social
 douceurmina.bsky.social
 poqssitafitgirl.bsky.social
-la-nouvelle-france.bsky.social
 laragekimonte.bsky.social
 narcose.bsky.social
 darkywolfy.bsky.social
@@ -416,7 +419,6 @@ charlesdalencon.bsky.social
 emlog1.bsky.social
 pierrot03.bsky.social
 maxonaxo.bsky.social
-pipendum.bsky.social
 vivie06.bsky.social
 cyberboulet.bsky.social
 guillaumecoudriau.bsky.social
