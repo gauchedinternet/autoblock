@@ -1,3 +1,16 @@
+inter74.bsky.social
+63vx5a.bsky.social
+eugiac.bsky.social
+frederic-frank.bsky.social
+trevatcg.bsky.social
+herve1948.bsky.social
+corsairebzh.bsky.social
+rosejasmin.bsky.social
+carldu40.bsky.social
+marco1664.bsky.social
+buburom.bsky.social
+fouadalifoufou.bsky.social
+nstreichenberger.bsky.social
 olisbosx1.bsky.social
 chancepourlafrance.bsky.social
 jaiquedeuxmains.bsky.social
@@ -25,7 +38,6 @@ xutol.bsky.social
 penseeactu.bsky.social
 arnault75.bsky.social
 bliblabloublo.bsky.social
-lazybouddha.bsky.social
 franc-tireur-fr.bsky.social
 ze-seuguh.bsky.social
 da7idse7en.bsky.social
@@ -862,7 +874,6 @@ wombat32.bsky.social
 demiurge2.bsky.social
 13and60.bsky.social
 libertymartin190.bsky.social
-jraff2001.bsky.social
 morisot1.bsky.social
 crimson2k24.bsky.social
 maskedmarvel.bsky.social
