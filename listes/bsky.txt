@@ -1,3 +1,7 @@
+julienalliot.bsky.social
+simsaglo.bsky.social
+putlermustbeshot.bsky.social
+coucou540.bsky.social
 nastyn00b.bsky.social
 potard05.bsky.social
 mohandben.bsky.social
@@ -254,7 +258,6 @@ bibro109.bsky.social
 riufr.bsky.social
 deus-lo-vult.bsky.social
 wata123456789.bsky.social
-sardine-ruisseau.bsky.social
 quezko.bsky.social
 brucetoutpuissant.bsky.social
 occign.bsky.social
@@ -970,6 +973,7 @@ melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
+gaslightfreezone.bsky.social
 donaldjtrumpy.bsky.social
 thunderhead21.bsky.social
 blaket07.bsky.social
