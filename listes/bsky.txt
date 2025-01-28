@@ -1,3 +1,11 @@
+antiextreme.bsky.social
+daruk029.bsky.social
+guybop.bsky.social
+pierre-heudebert.bsky.social
+bernard-morin.bsky.social
+rosbroff.bsky.social
+politicar.bsky.social
+cricrif46.bsky.social
 julienalliot.bsky.social
 simsaglo.bsky.social
 putlermustbeshot.bsky.social
@@ -330,7 +338,6 @@ fifi-710shoah.bsky.social
 sardinerousso.bsky.social
 gau606.bsky.social
 fascislamisme.bsky.social
-gemmatroup124.bsky.social
 gufolino.bsky.social
 alphawhisky.bsky.social
 webnet.bsky.social
