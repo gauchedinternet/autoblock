@@ -1,4 +1,10 @@
-luge62.bsky.social
+53lucidite.bsky.social
+jean-durant.bsky.social
+caton1.bsky.social
+didoune1.bsky.social
+michaelgeorge63.bsky.social
+elontrump34.bsky.social
+squatdespatriotes.bsky.social
 marterry.bsky.social
 gastoncailleux.bsky.social
 bebert44.bsky.social
@@ -8,11 +14,9 @@ ironda3.bsky.social
 jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
-mrm.hkr.pw
 lannig29.bsky.social
 marcel-lampion.bsky.social
 toutadroite.bsky.social
-anna7852.bsky.social
 ldcbsn.bsky.social
 974reconquete.bsky.social
 antiextreme.bsky.social
@@ -466,7 +470,7 @@ fernand666.bsky.social
 patriotefrance.bsky.social
 valeryornitho.bsky.social
 e2sealop.bsky.social
-lafrancedabord.bsky.social
+parti-republicain.bsky.social
 sergejean.bsky.social
 francis-t-88.bsky.social
 dardjiskien.bsky.social
@@ -872,7 +876,6 @@ jabbathewokey.bsky.social
 chaseincommieland.bsky.social
 iansbrodrick.bsky.social
 mikecent.bsky.social
-bisquitron.bsky.social
 donbsad.bsky.social
 garybee.bsky.social
 pamichelle.bsky.social
@@ -996,7 +999,6 @@ melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
-gaslightfreezone.bsky.social
 donaldjtrumpy.bsky.social
 thunderhead21.bsky.social
 blaket07.bsky.social
