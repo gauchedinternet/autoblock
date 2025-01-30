@@ -1,3 +1,5 @@
+gouinetelecom.bsky.social
+charlesmarteloff.bsky.social
 tcqnvp.bsky.social
 johnnyroboto.bsky.social
 jimduchesne.bsky.social
@@ -444,7 +446,7 @@ valigio.bsky.social
 nonaucollabo.bsky.social
 alagaddaembassy.bsky.social
 citoyen-resilient.bsky.social
-romain68.bsky.social
+socialus.bsky.social
 buitono.bsky.social
 viga93.bsky.social
 colo44.bsky.social
