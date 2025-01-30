@@ -1,3 +1,5 @@
+castes.bsky.social
+swisswol.bsky.social
 rougon.bsky.social
 kikoulapralinou.bsky.social
 michel87.bsky.social
