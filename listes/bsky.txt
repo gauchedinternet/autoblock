@@ -1,3 +1,4 @@
+lebuldoseur.bsky.social
 elliotmoreau.fr
 poissard.bsky.social
 mrdho.bsky.social
@@ -507,7 +508,6 @@ laragekimonte.bsky.social
 narcose.bsky.social
 darkywolfy.bsky.social
 yacmi.bsky.social
-axoulotl08.bsky.social
 seayou.bsky.social
 emilefranc.bsky.social
 toxicjok.bsky.social
