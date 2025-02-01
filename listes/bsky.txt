@@ -1,3 +1,4 @@
+lombres.bsky.social
 pascal-ua.bsky.social
 jml032025.bsky.social
 philippezav.bsky.social
@@ -32,7 +33,6 @@ gattaca1998.bsky.social
 danstoncul.bsky.social
 ricraft.bsky.social
 trainboyz11.bsky.social
-jeramieullrich.bsky.social
 willieokuneva.bsky.social
 alvertaschuster.bsky.social
 manthoparis.bsky.social
@@ -124,7 +124,6 @@ buburom.bsky.social
 fouadalifoufou.bsky.social
 nstreichenberger.bsky.social
 olisbosx1.bsky.social
-chancepourlafrance.bsky.social
 jaiquedeuxmains.bsky.social
 tony012025.bsky.social
 pigxid.bsky.social
