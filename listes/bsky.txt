@@ -1,3 +1,6 @@
+pascal-ua.bsky.social
+jml032025.bsky.social
+philippezav.bsky.social
 vince29.bsky.social
 lebuldoseur.bsky.social
 elliotmoreau.fr
@@ -145,7 +148,6 @@ vucatigeje.bsky.social
 pierrecallamand.bsky.social
 penseeactu.bsky.social
 arnault75.bsky.social
-bliblabloublo.bsky.social
 franc-tireur-fr.bsky.social
 ze-seuguh.bsky.social
 da7idse7en.bsky.social
@@ -951,7 +953,6 @@ thatamerican.bsky.social
 nakdnick.bsky.social
 bmg72.bsky.social
 blueeyedbadgirl.bsky.social
-trumpwon2022.bsky.social
 johhnyy39.bsky.social
 aunmeme.bsky.social
 offensiveancap.bsky.social
