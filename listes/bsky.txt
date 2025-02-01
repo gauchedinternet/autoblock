@@ -1,3 +1,4 @@
+vince29.bsky.social
 lebuldoseur.bsky.social
 elliotmoreau.fr
 poissard.bsky.social
@@ -291,7 +292,6 @@ hubertq.bsky.social
 lesbienneantifa.bsky.social
 symuli.bsky.social
 johndo94.bsky.social
-fumierdlapin.bsky.social
 siocnarf13011.bsky.social
 marcel-lambert.bsky.social
 psychodancer.bsky.social
@@ -398,7 +398,6 @@ leperr.bsky.social
 dannydoe.bsky.social
 salomerainbow.bsky.social
 trellu.moal.tf
-sihameassbugged.bsky.social
 guybertverheyde.bsky.social
 sigur1968.bsky.social
 piloutin.bsky.social
