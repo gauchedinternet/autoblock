@@ -1,3 +1,9 @@
+mathmos33.bsky.social
+nono-le-robot.bsky.social
+philmscr.bsky.social
+praline2513.bsky.social
+eric2624.bsky.social
+chriscoppola.bsky.social
 jeff-du-havre.bsky.social
 dana1959.bsky.social
 paris75.bsky.social
@@ -319,7 +325,6 @@ superfaf88.bsky.social
 bougeret.fr
 rom31100.bsky.social
 lavraiegauche.bsky.social
-vitetrump.bsky.social
 legeneral.bsky.social
 morgan-nicol.bsky.social
 frotus1.bsky.social
