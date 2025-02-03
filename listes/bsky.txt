@@ -1,3 +1,6 @@
+jeff-du-havre.bsky.social
+dana1959.bsky.social
+paris75.bsky.social
 marie-jo-marseille.bsky.social
 annabelle31.bsky.social
 kervador.bsky.social
@@ -974,7 +977,7 @@ gello-kennedy.bsky.social
 notrobertfkennedy.bsky.social
 deltadawn7.bsky.social
 downwithwokeness.bsky.social
-handle.invalid
+drea4343.bsky.social
 sheppie.bsky.social
 shapedbytruth.bsky.social
 hobbesiantroll.bsky.social
@@ -1020,7 +1023,6 @@ ultra-maga.bsky.social
 imissmeantweets.bsky.social
 diggoryoblivian.bsky.social
 prolifecoffee.bsky.social
-zooeydotpub.zdu.se
 testingthelimits.bsky.social
 magatrain2024.bsky.social
 maga64.bsky.social
