@@ -1,3 +1,6 @@
+lesocratique.bsky.social
+poeda.bsky.social
+andidervishi.bsky.social
 vulcain-ii.bsky.social
 guillaume76120.bsky.social
 moimeme75.bsky.social
@@ -57,7 +60,6 @@ rnjoff.bsky.social
 fab1208.bsky.social
 marge71.bsky.social
 flofliflo.bsky.social
-jmlepen052025.bsky.social
 akia94.bsky.social
 surprisedpainttoe.bsky.social
 mampau.bsky.social
@@ -1105,7 +1107,6 @@ jessicae1120.bsky.social
 fredziffel228.bsky.social
 joebravo77.bsky.social
 r2401.bsky.social
-maybemaybenoit.bsky.social
 anarchmonarch.bsky.social
 swansurf.bsky.social
 genx-wisdom.bsky.social
@@ -1113,7 +1114,6 @@ melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
-gaslightfreezone.bsky.social
 donaldjtrumpy.bsky.social
 thunderhead21.bsky.social
 blaket07.bsky.social
