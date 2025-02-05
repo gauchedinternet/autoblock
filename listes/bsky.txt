@@ -1,3 +1,6 @@
+martelmoica.bsky.social
+jm-lepen-the-king.bsky.social
+donald-trompe.bsky.social
 douce-france.bsky.social
 readerror.bsky.social
 guillaumesaquet.bsky.social
@@ -145,7 +148,6 @@ annedomblides.bsky.social
 jean-durant.bsky.social
 caton1.bsky.social
 didoune1.bsky.social
-michaelgeorge63.bsky.social
 elontrump34.bsky.social
 marterry.bsky.social
 gastoncailleux.bsky.social
@@ -602,7 +604,7 @@ fernand666.bsky.social
 patriotefrance.bsky.social
 valeryornitho.bsky.social
 e2sealop.bsky.social
-parti-republicain.bsky.social
+identitedabord.bsky.social
 sergejean.bsky.social
 francis-t-88.bsky.social
 dardjiskien.bsky.social
@@ -1588,4 +1590,5 @@ sloppyjalopy.bsky.social
 josephmama.bsky.social
 digger9.bsky.social
 jeancool7.bsky.social
+henri5.bsky.social
 superwoke.bsky.social
