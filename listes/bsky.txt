@@ -1,3 +1,4 @@
+apostatprogressist.bsky.social
 aleganyf.bsky.social
 docteurfrance.bsky.social
 freedom-of-speech.bsky.social
@@ -5,7 +6,6 @@ la-france-666.bsky.social
 monsieur14.bsky.social
 krytchek.bsky.social
 martelmoica.bsky.social
-jm-lepen-the-king.bsky.social
 donald-trompe.bsky.social
 douce-france.bsky.social
 readerror.bsky.social
@@ -1127,6 +1127,7 @@ melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
+gaslightfreezone.bsky.social
 donaldjtrumpy.bsky.social
 thunderhead21.bsky.social
 blaket07.bsky.social
