@@ -1,3 +1,4 @@
+lupicin.bsky.social
 appolonios.bsky.social
 apostatprogressist.bsky.social
 aleganyf.bsky.social
@@ -1312,7 +1313,6 @@ jacquesdemolay.bsky.social
 la-faucheuse64.bsky.social
 halteconnerie.bsky.social
 booyalezucc.bsky.social
-augustopinochet1.bsky.social
 jeanne75008.bsky.social
 patriotefrancaise.bsky.social
 truemalevitch.bsky.social
