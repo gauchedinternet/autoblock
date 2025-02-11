@@ -1,3 +1,8 @@
+stephrnx.bsky.social
+liberte2025.bsky.social
+papillondufleuve.bsky.social
+reminet.bsky.social
+danaeaquilegia.bsky.social
 visiblement2021.bsky.social
 moonzray.bsky.social
 infinitywizion.bsky.social
@@ -16,8 +21,6 @@ arvo2025.bsky.social
 henrydent.bsky.social
 folace.bsky.social
 loulou94.bsky.social
-cromlech2025.bsky.social
-lemenhir2025.bsky.social
 blvdvoltaire.bsky.social
 anthroposane.bsky.social
 fredo62.bsky.social
@@ -25,7 +28,6 @@ lignerole.bsky.social
 mylenechiasson.bsky.social
 superheterro.bsky.social
 laurent-d-aviano.bsky.social
-ledolmen2025.bsky.social
 lovelittleboy.bsky.social
 lupicin.bsky.social
 appolonios.bsky.social
@@ -312,7 +314,6 @@ kadiozo.bsky.social
 guizmomario.bsky.social
 fred2o.bsky.social
 conservativeusa.bsky.social
-therealmagabratz.bsky.social
 hermine2956.bsky.social
 sabarotz.bsky.social
 guillaumergb.bsky.social
