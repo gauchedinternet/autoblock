@@ -220,7 +220,6 @@ jackpayet.bsky.social
 carmebertrull.bsky.social
 latruie93.bsky.social
 jeanmarielepen93.bsky.social
-aexterminateur.bsky.social
 rhodanbucco58.bsky.social
 camerone59.bsky.social
 jalcoo.bsky.social
@@ -271,7 +270,6 @@ rombelge.bsky.social
 fassty100.bsky.social
 malby2024.bsky.social
 ellision.bsky.social
-prunong.bsky.social
 fcitoyennes.bsky.social
 rauze9.bsky.social
 heraklescitharede.bsky.social
