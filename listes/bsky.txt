@@ -1,3 +1,5 @@
+alexhervaud.bsky.social
+obenalors.bsky.social
 stephrnx.bsky.social
 liberte2025.bsky.social
 papillondufleuve.bsky.social
@@ -239,7 +241,6 @@ buburom.bsky.social
 fouadalifoufou.bsky.social
 nstreichenberger.bsky.social
 olisbosx1.bsky.social
-jaiquedeuxmains.bsky.social
 pigxid.bsky.social
 frtradi.bsky.social
 captnsobvious.bsky.social
@@ -491,7 +492,6 @@ thibaultcandau.bsky.social
 fokewoke.bsky.social
 fred33000.bsky.social
 pasvictorferry.bsky.social
-brunomad.bsky.social
 dumecasta.bsky.social
 fabienmonvoisin.bsky.social
 gavberserk.bsky.social
