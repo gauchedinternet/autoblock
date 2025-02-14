@@ -1,3 +1,4 @@
+jean-luchemalencon.bsky.social
 ggerald77.bsky.social
 igorinsu.bsky.social
 le-passant.bsky.social
@@ -734,7 +735,7 @@ gpto76.bsky.social
 martineidf.bsky.social
 monalulu.bsky.social
 bienewolf.bsky.social
-fellaramos.fellas.social
+handle.invalid
 belladona.bsky.social
 yvette830955.bsky.social
 drbarriere.bsky.social
@@ -1559,7 +1560,7 @@ tronaldtrump.bsky.social
 taylorbrinson.bsky.social
 paulaineru.bsky.social
 devldog1775.bsky.social
-handle.invalid
+dexthesex.bsky.social
 bbobynator.bsky.social
 gamotouspoustides.bsky.social
 zraydadbod.bsky.social
