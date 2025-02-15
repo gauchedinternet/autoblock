@@ -1,3 +1,4 @@
+pierrezep.bsky.social
 radiantsg.ovh
 jmsp9377.bsky.social
 jean-luchemalencon.bsky.social
@@ -706,7 +707,6 @@ montjoie62200.bsky.social
 daniellalb.bsky.social
 lvtatoo.bsky.social
 franckpatin.bsky.social
-veille.bsky.social
 marie11.bsky.social
 patrej69.bsky.social
 pascalseon.bsky.social
