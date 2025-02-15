@@ -1,3 +1,5 @@
+radiantsg.ovh
+jmsp9377.bsky.social
 jean-luchemalencon.bsky.social
 ggerald77.bsky.social
 igorinsu.bsky.social
@@ -576,7 +578,7 @@ citoyen-resilient.bsky.social
 socialus.bsky.social
 buitono.bsky.social
 viga93.bsky.social
-colo44.bsky.social
+leshumainsdumonde.bsky.social
 julofparis.bsky.social
 olivier1802.bsky.social
 bluesskyvisitor.bsky.social
@@ -837,7 +839,6 @@ neutralityfox.bsky.social
 orynick.fr
 cobrafx.bsky.social
 pretressealexia.bsky.social
-radiantsg.ovh
 maskedduck69.bsky.social
 ptaah.fr
 herbedeprovence.bsky.social
@@ -1084,7 +1085,7 @@ libertymartin190.bsky.social
 morisot1.bsky.social
 crimson2k24.bsky.social
 maskedmarvel.bsky.social
-hatzy.bsky.social
+hats88.bsky.social
 bluesky-temp-2024.bsky.social
 mikey-one.bsky.social
 txnx.bsky.social
