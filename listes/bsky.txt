@@ -27,7 +27,6 @@ mathpinsard.bsky.social
 alexhervaud.bsky.social
 obenalors.bsky.social
 stephrnx.bsky.social
-liberte2025.bsky.social
 papillondufleuve.bsky.social
 reminet.bsky.social
 danaeaquilegia.bsky.social
@@ -370,7 +369,6 @@ emmanuelyvon.bsky.social
 christel08.bsky.social
 chrisled.bsky.social
 pam-ras56.bsky.social
-nemezisvox.bsky.social
 un-gaul.bsky.social
 lesouverainiste.bsky.social
 karldelta.bsky.social
@@ -793,7 +791,6 @@ drchampo.bsky.social
 technovolaille.bsky.social
 nato75000.bsky.social
 jcrousseau.bsky.social
-jfp50.bsky.social
 e-pstein.bsky.social
 mariebastille.bsky.social
 bp1945.bsky.social
