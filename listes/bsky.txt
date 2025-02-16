@@ -233,7 +233,6 @@ rosbroff.bsky.social
 politicar.bsky.social
 cricrif46.bsky.social
 julienalliot.bsky.social
-simsaglo.bsky.social
 putlermustbeshot.bsky.social
 coucou540.bsky.social
 nastyn00b.bsky.social
@@ -697,7 +696,6 @@ princessefleur.bsky.social
 classiuspope.bsky.social
 movelikejagger.bsky.social
 wmorningstar30.bsky.social
-ice33.bsky.social
 sardinette.bsky.social
 milka67.bsky.social
 isab2.bsky.social
@@ -1104,7 +1102,6 @@ diggoryoblivian.bsky.social
 prolifecoffee.bsky.social
 testingthelimits.bsky.social
 magatrain2024.bsky.social
-maga64.bsky.social
 drcameronjones.bsky.social
 exploringalway.bsky.social
 dookusroyal.bsky.social
