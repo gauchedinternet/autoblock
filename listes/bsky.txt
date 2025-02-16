@@ -1,3 +1,7 @@
+voixdespatriotes.bsky.social
+demagog666.bsky.social
+gabouts.bsky.social
+psyhodelikus.bsky.social
 nicolasaz.bsky.social
 pandresbb.bsky.social
 pierrezep.bsky.social
@@ -130,7 +134,7 @@ carolinnee.bsky.social
 rouggpom.bsky.social
 rnationaloff.bsky.social
 geraltder1v.bsky.social
-rnjoff.bsky.social
+mathildepanneau.bsky.social
 fab1208.bsky.social
 marge71.bsky.social
 flofliflo.bsky.social
@@ -696,6 +700,7 @@ princessefleur.bsky.social
 classiuspope.bsky.social
 movelikejagger.bsky.social
 wmorningstar30.bsky.social
+ice33.bsky.social
 sardinette.bsky.social
 milka67.bsky.social
 isab2.bsky.social
@@ -1115,7 +1120,6 @@ dmccray.bsky.social
 natejon.bsky.social
 asher312.bsky.social
 sweethomemich.bsky.social
-thewokeagenda.bsky.social
 maga21stcentury.bsky.social
 beaviss.bsky.social
 magamerica2024.bsky.social
