@@ -1,3 +1,5 @@
+nicolasaz.bsky.social
+pandresbb.bsky.social
 pierrezep.bsky.social
 radiantsg.ovh
 jmsp9377.bsky.social
@@ -1100,7 +1102,7 @@ ultra-maga.bsky.social
 imissmeantweets.bsky.social
 diggoryoblivian.bsky.social
 prolifecoffee.bsky.social
-handle.invalid
+testingthelimits.bsky.social
 magatrain2024.bsky.social
 maga64.bsky.social
 drcameronjones.bsky.social
@@ -1165,7 +1167,6 @@ stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
 gaslightfreezone.bsky.social
-donaldjtrumpy.bsky.social
 thunderhead21.bsky.social
 blaket07.bsky.social
 reallouiehuey.bsky.social
