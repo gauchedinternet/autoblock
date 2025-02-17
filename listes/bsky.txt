@@ -1,3 +1,5 @@
+jppyv.bsky.social
+jeannotsurbluesky.bsky.social
 gadiamb.bsky.social
 17juin1965.bsky.social
 quentin20.bsky.social
@@ -660,7 +662,7 @@ fernand666.bsky.social
 patriotefrance.bsky.social
 valeryornitho.bsky.social
 e2sealop.bsky.social
-avecretailleau83.bsky.social
+gregorylamothe.bsky.social
 sergejean.bsky.social
 francis-t-88.bsky.social
 dardjiskien.bsky.social
@@ -1170,6 +1172,7 @@ melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
+gaslightfreezone.bsky.social
 thunderhead21.bsky.social
 blaket07.bsky.social
 reallouiehuey.bsky.social
