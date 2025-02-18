@@ -1,3 +1,5 @@
+rimahamas.bsky.social
+malekbaroudi.bsky.social
 raoul01.bsky.social
 edkrassenn.bsky.social
 krassenstein.bsky.social
@@ -1129,7 +1131,6 @@ dmccray.bsky.social
 natejon.bsky.social
 asher312.bsky.social
 sweethomemich.bsky.social
-maga21stcentury.bsky.social
 beaviss.bsky.social
 magamerica2024.bsky.social
 cherylmagaha.bsky.social
