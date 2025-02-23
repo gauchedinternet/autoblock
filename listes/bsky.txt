@@ -1,3 +1,8 @@
+mouchonnicolas.bsky.social
+sandrocenour.bsky.social
+perroc.bsky.social
+ornicare.bsky.social
+arnaudbzh.bsky.social
 sanfreeze.bsky.social
 adieu344.bsky.social
 hekapute.bsky.social
@@ -37,7 +42,6 @@ jyves94.bsky.social
 letapin.bsky.social
 jbmontarnier.bsky.social
 voixdespatriotes.bsky.social
-demagog666.bsky.social
 gabouts.bsky.social
 psyhodelikus.bsky.social
 nicolasaz.bsky.social
