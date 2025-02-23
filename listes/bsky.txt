@@ -1,3 +1,4 @@
+manu-torrans.bsky.social
 mouchonnicolas.bsky.social
 sandrocenour.bsky.social
 perroc.bsky.social
@@ -779,7 +780,7 @@ gpto76.bsky.social
 martineidf.bsky.social
 monalulu.bsky.social
 bienewolf.bsky.social
-handle.invalid
+fellaramos.bsky.social
 belladona.bsky.social
 yvette830955.bsky.social
 drbarriere.bsky.social
