@@ -1,3 +1,4 @@
+negan-official.bsky.social
 ptbjtm.bsky.social
 francepatriote.bsky.social
 malicorne37.bsky.social
@@ -1538,7 +1539,6 @@ chieng.bsky.social
 realanonymoose.bsky.social
 swaggy-com.bsky.social
 teamstersvoter.bsky.social
-dukemcgillicutty.bsky.social
 martinomac.bsky.social
 orvosk.bsky.social
 jboyles12.bsky.social
