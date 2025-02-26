@@ -1,3 +1,4 @@
+regishoussin.bsky.social
 negan-official.bsky.social
 ptbjtm.bsky.social
 francepatriote.bsky.social
@@ -267,7 +268,6 @@ jeanpire.bsky.social
 saynotonogg.bsky.social
 lannig29.bsky.social
 marcel-lampion.bsky.social
-toutadroite.bsky.social
 ldcbsn.bsky.social
 974reconquete.bsky.social
 antiextreme.bsky.social
