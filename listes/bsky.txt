@@ -512,7 +512,6 @@ lnzez.bsky.social
 fu-manchu-bzh.bsky.social
 politicards.bsky.social
 toutseul.bsky.social
-tbyrn.bsky.social
 nzenovka.bsky.social
 sfrt23.bsky.social
 ninja-stane.bsky.social
