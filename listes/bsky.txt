@@ -1,3 +1,4 @@
+jordanrn.bsky.social
 ubijara.bsky.social
 lyonoumet.bsky.social
 guy-montag-451.bsky.social
@@ -1064,7 +1065,6 @@ liambagley.bsky.social
 victoria2027.bsky.social
 trumpwins24.bsky.social
 bodittle.bsky.social
-meantweets.bsky.social
 wewon2024maga.bsky.social
 japreacher.bsky.social
 busyeatingcrayons.bsky.social
