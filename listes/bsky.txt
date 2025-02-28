@@ -1,3 +1,4 @@
+moute-antilfistes.bsky.social
 jordanrn.bsky.social
 ubijara.bsky.social
 lyonoumet.bsky.social
@@ -1028,7 +1029,6 @@ catotheelder32.bsky.social
 goddeketal.bsky.social
 realbabylonbee.bsky.social
 aggiemaeh.bsky.social
-apwk.bsky.social
 darkangel7215.bsky.social
 mistahj.bsky.social
 mariofan44.bsky.social
@@ -1077,7 +1077,6 @@ thankgodtrumpwon.bsky.social
 nhug72.bsky.social
 tacocat100.bsky.social
 geoffbezos6.bsky.social
-trumpbarron.bsky.social
 mjgranger1.bsky.social
 trumpwon24.bsky.social
 yolanda23.bsky.social
