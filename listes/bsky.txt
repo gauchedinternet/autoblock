@@ -832,7 +832,6 @@ simont32.bsky.social
 gxvi.bsky.social
 xwitter.bsky.social
 demostene35.bsky.social
-oeil-de-sauron.bsky.social
 drchampo.bsky.social
 technovolaille.bsky.social
 nato75000.bsky.social
