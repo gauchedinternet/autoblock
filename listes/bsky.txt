@@ -1,7 +1,6 @@
 gabrielmainville.bsky.social
 jean-philippelabbe.bsky.social
 unjouruncon.bsky.social
-newsmonitor.bsky.social
 moute-antilfistes.bsky.social
 jordanrn.bsky.social
 ubijara.bsky.social
@@ -240,7 +239,6 @@ trainboyz11.bsky.social
 manthoparis.bsky.social
 klicsibre.bsky.social
 xutol.bsky.social
-jesuisgentil.bsky.social
 nhoksylvie.bsky.social
 aizemk.bsky.social
 leftfrench.bsky.social
@@ -298,6 +296,7 @@ jackpayet.bsky.social
 carmebertrull.bsky.social
 latruie93.bsky.social
 jeanmarielepen93.bsky.social
+aexterminateur.bsky.social
 rhodanbucco58.bsky.social
 camerone59.bsky.social
 jalcoo.bsky.social
