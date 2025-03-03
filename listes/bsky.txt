@@ -1,3 +1,7 @@
+randomjako111.bsky.social
+cs57cs.bsky.social
+laviepolitique.bsky.social
+kerogan.bsky.social
 gabrielmainville.bsky.social
 jean-philippelabbe.bsky.social
 unjouruncon.bsky.social
@@ -296,7 +300,6 @@ jackpayet.bsky.social
 carmebertrull.bsky.social
 latruie93.bsky.social
 jeanmarielepen93.bsky.social
-aexterminateur.bsky.social
 rhodanbucco58.bsky.social
 camerone59.bsky.social
 jalcoo.bsky.social
