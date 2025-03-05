@@ -1,3 +1,4 @@
+waxinho.bsky.social
 tiboinshape.bsky.social
 chuckzak.bsky.social
 half24.bsky.social
@@ -184,7 +185,6 @@ damien53.bsky.social
 discoveryhub.bsky.social
 ludox.bsky.social
 orca34.bsky.social
-carolinnee.bsky.social
 rnationaloff.bsky.social
 geraltder1v.bsky.social
 mathildepanneau.bsky.social
@@ -272,7 +272,6 @@ bebert44.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
 ironda3.bsky.social
-jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
 lannig29.bsky.social
