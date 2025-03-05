@@ -1,3 +1,4 @@
+tiboinshape.bsky.social
 chuckzak.bsky.social
 half24.bsky.social
 fluoelno.bsky.social
@@ -67,7 +68,6 @@ jmsp9377.bsky.social
 jean-luchemalencon.bsky.social
 ggerald77.bsky.social
 igorinsu.bsky.social
-le-passant.bsky.social
 thomaz74.bsky.social
 a175for.bsky.social
 henrijaubert.bsky.social
@@ -117,7 +117,6 @@ apostatprogressist.bsky.social
 aleganyf.bsky.social
 docteurfrance.bsky.social
 freedom-of-speech.bsky.social
-la-france-666.bsky.social
 monsieur14.bsky.social
 krytchek.bsky.social
 martelmoica.bsky.social
