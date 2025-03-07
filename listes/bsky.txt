@@ -9,7 +9,6 @@ kerogan.bsky.social
 gabrielmainville.bsky.social
 unjouruncon.bsky.social
 moute-antilfistes.bsky.social
-jordanrn.bsky.social
 ubijara.bsky.social
 lyonoumet.bsky.social
 guy-montag-451.bsky.social
@@ -328,7 +327,6 @@ frontpopetcompagnie.fr.web.brid.gy
 francesouveraine.org.web.brid.gy
 filaffranchi.bsky.social
 smoothsonic.bsky.social
-ctk100.bsky.social
 crejuvet2.bsky.social
 sidera69.bsky.social
 russien.bsky.social
@@ -423,7 +421,7 @@ pam-ras56.bsky.social
 un-gaul.bsky.social
 lesouverainiste.bsky.social
 karldelta.bsky.social
-charlesmartel33.bsky.social
+zebrasqual.bsky.social
 fildefer2.bsky.social
 distilator.bsky.social
 gogologu.bsky.social
@@ -777,7 +775,7 @@ elevyne.bsky.social
 boulba35.bsky.social
 cn65cn.bsky.social
 jean26500.bsky.social
-patrickyassine.bsky.social
+handle.invalid
 lafee.bsky.social
 rubyfoos1.bsky.social
 rayaue.bsky.social
@@ -822,7 +820,7 @@ francaisdesouche.bsky.social
 lv39000.bsky.social
 franckbaf.bsky.social
 marcomaga.bsky.social
-moussakageante.bsky.social
+handle.invalid
 chlechevalier.bsky.social
 kevinjoly.bsky.social
 rautayrtti.bsky.social
