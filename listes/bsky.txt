@@ -624,7 +624,6 @@ hlimmo.bsky.social
 valigio.bsky.social
 nonaucollabo.bsky.social
 alagaddaembassy.bsky.social
-citoyen-resilient.bsky.social
 socialus.bsky.social
 buitono.bsky.social
 viga93.bsky.social
