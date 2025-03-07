@@ -775,7 +775,7 @@ elevyne.bsky.social
 boulba35.bsky.social
 cn65cn.bsky.social
 jean26500.bsky.social
-handle.invalid
+patrickyassine.bsky.social
 lafee.bsky.social
 rubyfoos1.bsky.social
 rayaue.bsky.social
