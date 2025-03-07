@@ -1,3 +1,4 @@
+bigjeffouille.bsky.social
 yannlebouchet80.bsky.social
 waxinho.bsky.social
 tiboinshape.bsky.social
@@ -880,7 +881,7 @@ john.inosta.cc
 spadsou.bsky.social
 nelsondjp.bsky.social
 lci.dev
-neutralityfox.bsky.social
+libertyf0x.bsky.social
 orynick.fr
 cobrafx.bsky.social
 pretressealexia.bsky.social
@@ -1036,7 +1037,6 @@ ridingred.bsky.social
 alexjoneswasright.bsky.social
 magatothebone.bsky.social
 trumpwonagain.bsky.social
-catreciaholmes.bsky.social
 trumpswins.bsky.social
 eagletrumpforce.bsky.social
 trumpappreciation.bsky.social
