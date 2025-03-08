@@ -6,7 +6,6 @@ chuckzak.bsky.social
 half24.bsky.social
 fluoelno.bsky.social
 cs57cs.bsky.social
-kerogan.bsky.social
 gabrielmainville.bsky.social
 unjouruncon.bsky.social
 moute-antilfistes.bsky.social
@@ -272,6 +271,7 @@ bebert44.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
 ironda3.bsky.social
+jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
 lannig29.bsky.social
@@ -1092,7 +1092,6 @@ brianna.bsky.social
 gello-kennedy.bsky.social
 notrobertfkennedy.bsky.social
 deltadawn7.bsky.social
-downwithwokeness.bsky.social
 drea4343.bsky.social
 sheppie.bsky.social
 shapedbytruth.bsky.social
