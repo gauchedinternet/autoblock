@@ -44,6 +44,7 @@ casa6465.bsky.social
 moiblue45.bsky.social
 futura-didou.bsky.social
 isabelletlabete.bsky.social
+alain-carriere.bsky.social
 mriceberg.bsky.social
 malekbaroudi.bsky.social
 edkrassenn.bsky.social
@@ -680,6 +681,7 @@ laragekimonte.bsky.social
 narcose.bsky.social
 darkywolfy.bsky.social
 yacmi.bsky.social
+axoulotl08.bsky.social
 seayou.bsky.social
 emilefranc.bsky.social
 toxicjok.bsky.social
