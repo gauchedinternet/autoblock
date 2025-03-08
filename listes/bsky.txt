@@ -1,5 +1,5 @@
+joudi-a.bsky.social
 bigjeffouille.bsky.social
-yannlebouchet80.bsky.social
 waxinho.bsky.social
 tiboinshape.bsky.social
 chuckzak.bsky.social
@@ -272,7 +272,6 @@ bebert44.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
 ironda3.bsky.social
-jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
 lannig29.bsky.social
@@ -820,7 +819,7 @@ francaisdesouche.bsky.social
 lv39000.bsky.social
 franckbaf.bsky.social
 marcomaga.bsky.social
-handle.invalid
+moussakageante.bsky.social
 chlechevalier.bsky.social
 kevinjoly.bsky.social
 rautayrtti.bsky.social
