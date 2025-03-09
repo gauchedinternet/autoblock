@@ -478,7 +478,6 @@ symuli.bsky.social
 johndo94.bsky.social
 siocnarf13011.bsky.social
 marcel-lambert.bsky.social
-psychodancer.bsky.social
 esteban-sle.bsky.social
 bsnoeck.bsky.social
 larmesdegauchiasse.bsky.social
