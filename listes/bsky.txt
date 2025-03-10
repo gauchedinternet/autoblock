@@ -57,7 +57,6 @@ casa6465.bsky.social
 moiblue45.bsky.social
 futura-didou.bsky.social
 isabelletlabete.bsky.social
-alain-carriere.bsky.social
 mriceberg.bsky.social
 malekbaroudi.bsky.social
 edkrassenn.bsky.social
@@ -1044,6 +1043,7 @@ darkangel7215.bsky.social
 mistahj.bsky.social
 mariofan44.bsky.social
 brajeanzosty.bsky.social
+odrowaz.bsky.social
 eaglesman710.bsky.social
 ridingred.bsky.social
 alexjoneswasright.bsky.social
@@ -1180,7 +1180,7 @@ bandwidth-beard.bsky.social
 meme-k-ultra.bsky.social
 nmcgillivray.bsky.social
 djt2024.bsky.social
-alsotapered.bsky.social
+handle.invalid
 grawlix12.bsky.social
 mando-46.bsky.social
 onlinemarktplatz.bsky.social
