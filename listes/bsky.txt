@@ -1223,7 +1223,6 @@ spytheliar.bsky.social
 iamdonaldtrump.bsky.social
 tovaritch.bsky.social
 fiscologue.bsky.social
-phdassier.bsky.social
 lapsykatraa.bsky.social
 helena-giger.bsky.social
 sporenda.bsky.social
