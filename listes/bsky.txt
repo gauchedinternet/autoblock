@@ -1,3 +1,4 @@
+b4ik3n.bsky.social
 blancbec.bsky.social
 elbadimrof.bsky.social
 captain-europe.bsky.social
@@ -987,7 +988,6 @@ supermarioooo.bsky.social
 cdnkarma.bsky.social
 dariahhhhhhh.bsky.social
 yolobathsalts420.bsky.social
-twitler.bsky.social
 patriotbillsmith.bsky.social
 jebaitedj.bsky.social
 californiarefugee.bsky.social
@@ -1185,7 +1185,7 @@ bandwidth-beard.bsky.social
 meme-k-ultra.bsky.social
 nmcgillivray.bsky.social
 djt2024.bsky.social
-handle.invalid
+alsotapered.bsky.social
 grawlix12.bsky.social
 mando-46.bsky.social
 onlinemarktplatz.bsky.social
