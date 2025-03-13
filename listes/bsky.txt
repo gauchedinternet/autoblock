@@ -303,7 +303,6 @@ ldcbsn.bsky.social
 974reconquete.bsky.social
 antiextreme.bsky.social
 daruk029.bsky.social
-guybop.bsky.social
 pierre-heudebert.bsky.social
 bernard-morin.bsky.social
 rosbroff.bsky.social
