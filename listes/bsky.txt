@@ -890,7 +890,6 @@ mascareignes.bsky.social
 serge-d-urac.bsky.social
 leroydecoeur.bsky.social
 bornog1975.bsky.social
-kittehschrodinger.bsky.social
 pourkkouappa.bsky.social
 chedesgoudes.bsky.social
 unterseeboot.bsky.social
@@ -979,7 +978,6 @@ jeromrodriguez.bsky.social
 pasfinidetourner.bsky.social
 santobartholomeo.bsky.social
 venusa77.bsky.social
-gamersonly.bsky.social
 marles.bsky.social
 poboisson.bsky.social
 fcstn.bsky.social
