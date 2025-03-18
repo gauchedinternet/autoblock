@@ -559,7 +559,6 @@ quezko.bsky.social
 occign.bsky.social
 elonmuscoff.bsky.social
 jfbl.bsky.social
-xcmieux.bsky.social
 lolotte31.bsky.social
 darknessofficiel.bsky.social
 lyon.bsky.social
