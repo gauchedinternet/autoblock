@@ -1435,7 +1435,6 @@ sylviespaceme.bsky.social
 cyves.bsky.social
 taupasse.bsky.social
 pierremoderet.bsky.social
-paulwytheta.bsky.social
 butcher-of-orcs.bsky.social
 yveslapotre.bsky.social
 tonytruan.bsky.social
