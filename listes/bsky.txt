@@ -1,3 +1,4 @@
+poulhu.bsky.social
 coq6.bsky.social
 jqd1.bsky.social
 leochinben.bsky.social
@@ -25,7 +26,6 @@ elbadimrof.bsky.social
 captain-europe.bsky.social
 rlc-officiel.bsky.social
 lyshee.bsky.social
-kbxbigbro.bsky.social
 perlinelavraie.bsky.social
 gregozrt.bsky.social
 slalonde00.bsky.social
@@ -742,7 +742,6 @@ poornh.bsky.social
 frederique35.bsky.social
 emily75.bsky.social
 padjen.bsky.social
-olympique13.bsky.social
 zeveto.bsky.social
 snake85.bsky.social
 claudemichel.bsky.social
