@@ -1,3 +1,4 @@
+agfreedom.bsky.social
 poulhu.bsky.social
 coq6.bsky.social
 jqd1.bsky.social
@@ -153,7 +154,6 @@ laurent-d-aviano.bsky.social
 lovelittleboy.bsky.social
 lupicin.bsky.social
 appolonios.bsky.social
-apostatprogressist.bsky.social
 aleganyf.bsky.social
 docteurfrance.bsky.social
 freedom-of-speech.bsky.social
@@ -309,7 +309,6 @@ bebert44.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
 ironda3.bsky.social
-jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
 lannig29.bsky.social
@@ -797,7 +796,7 @@ salima18-06.bsky.social
 mariedeschamps61.bsky.social
 ogrego.bsky.social
 bernardstaugustin.bsky.social
-pierre-girard.bsky.social
+handle.invalid
 elevyne.bsky.social
 boulba35.bsky.social
 cn65cn.bsky.social
@@ -1339,7 +1338,7 @@ nowandforever.bsky.social
 frenchie-fra.bsky.social
 will2ba.bsky.social
 clerycy.bsky.social
-marclatour.bsky.social
+sorayabenz.bsky.social
 mfrlucidite92.bsky.social
 mikacam.bsky.social
 lepaladin.bsky.social
