@@ -1,3 +1,4 @@
+coq6.bsky.social
 jqd1.bsky.social
 leochinben.bsky.social
 iceman91.bsky.social
@@ -1077,7 +1078,6 @@ war-beard.bsky.social
 motown78.bsky.social
 thewayitis.bsky.social
 kennethstark.bsky.social
-aarontkenney.bsky.social
 mvrwc.com
 lasoc.bsky.social
 ownthedems2024.bsky.social
