@@ -1,3 +1,4 @@
+yannick-fantastic.bsky.social
 agfreedom.bsky.social
 poulhu.bsky.social
 coq6.bsky.social
@@ -294,7 +295,7 @@ arlette1990.bsky.social
 alain563.bsky.social
 apernoster.bsky.social
 arnoldinho92.bsky.social
-stephane-giordano.bsky.social
+handle.invalid
 trollhunter.bsky.social
 jamuze.bsky.social
 annedomblides.bsky.social
@@ -309,6 +310,7 @@ bebert44.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
 ironda3.bsky.social
+jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
 lannig29.bsky.social
@@ -796,7 +798,7 @@ salima18-06.bsky.social
 mariedeschamps61.bsky.social
 ogrego.bsky.social
 bernardstaugustin.bsky.social
-handle.invalid
+pierre-girard.bsky.social
 elevyne.bsky.social
 boulba35.bsky.social
 cn65cn.bsky.social
