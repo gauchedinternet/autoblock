@@ -295,7 +295,7 @@ arlette1990.bsky.social
 alain563.bsky.social
 apernoster.bsky.social
 arnoldinho92.bsky.social
-handle.invalid
+stephane-giordano.bsky.social
 trollhunter.bsky.social
 jamuze.bsky.social
 annedomblides.bsky.social
