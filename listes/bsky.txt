@@ -1,3 +1,4 @@
+cyrilhanouna.bsky.social
 yannick-fantastic.bsky.social
 agfreedom.bsky.social
 poulhu.bsky.social
@@ -1230,7 +1231,6 @@ ultramagaf.bsky.social
 brodenstarjacob.bsky.social
 anhuman.bsky.social
 spytheliar.bsky.social
-iamdonaldtrump.bsky.social
 tovaritch.bsky.social
 fiscologue.bsky.social
 lapsykatraa.bsky.social
