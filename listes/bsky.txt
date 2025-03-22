@@ -1,3 +1,4 @@
+samplait.bsky.social
 destrowod.bsky.social
 cyrilhanouna.bsky.social
 yannick-fantastic.bsky.social
@@ -472,7 +473,6 @@ hubertdelandon.bsky.social
 ampoulehead.bsky.social
 joachim73.bsky.social
 snoopy21.bsky.social
-joan290.bsky.social
 pascal-gagnon.bsky.social
 katell80.bsky.social
 couperet.bsky.social
