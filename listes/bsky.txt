@@ -381,7 +381,6 @@ arnault75.bsky.social
 franc-tireur-fr.bsky.social
 ze-seuguh.bsky.social
 da7idse7en.bsky.social
-berenicesixtie.bsky.social
 bhanau.bsky.social
 touscontrelfi.bsky.social
 rombelge.bsky.social
@@ -492,7 +491,6 @@ tabliboo.bsky.social
 jeremiejak.bsky.social
 anna-turtle56.bsky.social
 zathraas.bsky.social
-issou666.bsky.social
 thepatriott.bsky.social
 royalistefab54.bsky.social
 lefloon.bsky.social
@@ -1210,6 +1208,7 @@ fernfreeman.bsky.social
 1776ghost.bsky.social
 trump2024maga1138.bsky.social
 pat-mccrotch.bsky.social
+wmc914.bsky.social
 rbcv64.bsky.social
 aleahim.bsky.social
 sgueli.bsky.social
