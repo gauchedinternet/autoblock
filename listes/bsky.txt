@@ -1,3 +1,6 @@
+drschmag.bsky.social
+dwazou.bsky.social
+karadok19.bsky.social
 northkento.bsky.social
 eric0950.bsky.social
 chtiwaz.bsky.social
@@ -11,7 +14,6 @@ massianip.bsky.social
 encantas.bsky.social
 pickwickpn.bsky.social
 psclbtl.bsky.social
-zorro133.bsky.social
 apocope44.bsky.social
 richhe.bsky.social
 ericvogue.bsky.social
