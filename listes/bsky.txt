@@ -1,3 +1,8 @@
+northkento.bsky.social
+eric0950.bsky.social
+chtiwaz.bsky.social
+jonathanlamo.bsky.social
+troche68.bsky.social
 actusnonstop.bsky.social
 vermermichel.bsky.social
 ocaj.bsky.social
@@ -742,7 +747,7 @@ mfm06340.bsky.social
 fernand666.bsky.social
 patriotefrance.bsky.social
 valeryornitho.bsky.social
-magafrance.bsky.social
+lesvilleristes.bsky.social
 sergejean.bsky.social
 francis-t-88.bsky.social
 dardjiskien.bsky.social
