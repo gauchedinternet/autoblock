@@ -1,3 +1,4 @@
+philippeserge.bsky.social
 f133.bsky.social
 isabelleforger.bsky.social
 loulou38.bsky.social
@@ -675,7 +676,6 @@ lajon777.bsky.social
 davenavis.bsky.social
 verlinde.bsky.social
 michelrevel.bsky.social
-frenchguard.bsky.social
 pascaldul2024.bsky.social
 mischa31.bsky.social
 tobeskyobserve.bsky.social
