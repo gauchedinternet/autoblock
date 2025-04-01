@@ -128,7 +128,6 @@ futura-didou.bsky.social
 isabelletlabete.bsky.social
 mriceberg.bsky.social
 malekbaroudi.bsky.social
-edkrassenn.bsky.social
 krassenstein.bsky.social
 lr3z.bsky.social
 jppyv.bsky.social
@@ -1385,7 +1384,6 @@ marcvanguard.bsky.social
 blackops941494.bsky.social
 coco-8517.bsky.social
 vincentmalet.bsky.social
-fefer38.bsky.social
 abberurier.bsky.social
 doczombi.bsky.social
 davfer.bsky.social
