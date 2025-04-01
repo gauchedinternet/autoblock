@@ -1,3 +1,5 @@
+hlocean.bsky.social
+o-scheibling.bsky.social
 agent-j.bsky.social
 valrist.bsky.social
 philippeserge.bsky.social
