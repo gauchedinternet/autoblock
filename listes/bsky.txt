@@ -1,3 +1,4 @@
+votrefrance.bsky.social
 hlocean.bsky.social
 o-scheibling.bsky.social
 agent-j.bsky.social
@@ -741,7 +742,6 @@ wkg91bf.bsky.social
 poqssitafitgirl.bsky.social
 laragekimonte.bsky.social
 narcose.bsky.social
-darkywolfy.bsky.social
 yacmi.bsky.social
 axoulotl08.bsky.social
 seayou.bsky.social
