@@ -1,3 +1,4 @@
+bouzigue.bsky.social
 nfpforever.bsky.social
 paullebvre.bsky.social
 votrefrance.bsky.social
@@ -446,7 +447,6 @@ greedyape420.bsky.social
 francois-morel2.bsky.social
 zegrolou.bsky.social
 benpatriote.bsky.social
-kimjongunique.bsky.social
 maximegage.bsky.social
 chugues.bsky.social
 arnaud-lysroyal.bsky.social
