@@ -1,3 +1,4 @@
+fgriveaud.bsky.social
 tizzone.bsky.social
 nfpforever.bsky.social
 paullebvre.bsky.social
@@ -555,7 +556,6 @@ ext1sy.bsky.social
 bredator.bsky.social
 ashtovkalid.bsky.social
 zitto06.bsky.social
-balsaduro.bsky.social
 doralexploratrice.bsky.social
 clairanne.bsky.social
 solo7731.bsky.social
@@ -717,7 +717,6 @@ dereymond-michel.bsky.social
 michaeladbk.bsky.social
 rodolphe51.bsky.social
 jeanfr37.bsky.social
-cedric691985.bsky.social
 aixqui.bsky.social
 jeanpaul56.bsky.social
 johanc20.bsky.social
