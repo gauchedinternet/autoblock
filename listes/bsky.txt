@@ -1,3 +1,5 @@
+cerfiainfo.bsky.social
+cerfia-fr.bsky.social
 emmanuelbodennec.bsky.social
 fgriveaud.bsky.social
 tizzone.bsky.social
