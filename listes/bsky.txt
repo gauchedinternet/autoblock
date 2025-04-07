@@ -1,3 +1,4 @@
+emmanuelbodennec.bsky.social
 fgriveaud.bsky.social
 tizzone.bsky.social
 bouzigue.bsky.social
@@ -1243,7 +1244,6 @@ redwavefactual.bsky.social
 teddyp1776.bsky.social
 jessicae1120.bsky.social
 fredziffel228.bsky.social
-joebravo77.bsky.social
 r2401.bsky.social
 anarchmonarch.bsky.social
 swansurf.bsky.social
