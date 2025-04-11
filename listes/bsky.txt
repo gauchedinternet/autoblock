@@ -102,7 +102,6 @@ half24.bsky.social
 fluoelno.bsky.social
 cs57cs.bsky.social
 gabrielmainville.bsky.social
-unjouruncon.bsky.social
 moute-antilfistes.bsky.social
 ubijara.bsky.social
 lyonoumet.bsky.social
@@ -393,7 +392,6 @@ trevatcg.bsky.social
 herve1948.bsky.social
 corsairebzh.bsky.social
 rosejasmin.bsky.social
-carldu40.bsky.social
 marco1664.bsky.social
 buburom.bsky.social
 fouadalifoufou.bsky.social
