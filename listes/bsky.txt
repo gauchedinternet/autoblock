@@ -3,7 +3,6 @@ lachemoifrr.bsky.social
 gerardlantez.bsky.social
 mcweryrich.bsky.social
 lveillbruno.bsky.social
-cerfia-fr.bsky.social
 cerfiainfo.bsky.social
 emmanuelbodennec.bsky.social
 fgriveaud.bsky.social
@@ -106,7 +105,6 @@ moute-antilfistes.bsky.social
 ubijara.bsky.social
 lyonoumet.bsky.social
 guy-montag-451.bsky.social
-regishoussin.bsky.social
 negan-official.bsky.social
 ptbjtm.bsky.social
 francepatriote.bsky.social
