@@ -590,7 +590,6 @@ wakidaisho.bsky.social
 lfi-filsdepute.bsky.social
 lnzez.bsky.social
 fu-manchu-bzh.bsky.social
-politicards.bsky.social
 toutseul.bsky.social
 nzenovka.bsky.social
 sfrt23.bsky.social
