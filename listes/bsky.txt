@@ -816,7 +816,7 @@ franckpatin.bsky.social
 marie11.bsky.social
 patrej69.bsky.social
 pascalseon.bsky.social
-pilounettes.bsky.social
+handle.invalid
 impertinence83.bsky.social
 berna-phil.bsky.social
 seblambda.bsky.social
@@ -1245,7 +1245,7 @@ swansurf.bsky.social
 genx-wisdom.bsky.social
 melvynjh.bsky.social
 stuartshrugged.bsky.social
-blueswimming.bsky.social
+handle.invalid
 justinbuntingfornc.bsky.social
 thunderhead21.bsky.social
 blaket07.bsky.social
