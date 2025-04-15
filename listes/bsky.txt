@@ -28,6 +28,7 @@ kyesos.bsky.social
 sylviebarre.bsky.social
 loic6983.bsky.social
 drschmag.bsky.social
+dwazou.bsky.social
 karadok19.bsky.social
 northkento.bsky.social
 eric0950.bsky.social
@@ -55,7 +56,6 @@ yannick-fantastic.bsky.social
 agfreedom.bsky.social
 coq6.bsky.social
 jqd1.bsky.social
-leochinben.bsky.social
 iceman91.bsky.social
 homer6177.bsky.social
 teemsassa.bsky.social
@@ -816,7 +816,7 @@ franckpatin.bsky.social
 marie11.bsky.social
 patrej69.bsky.social
 pascalseon.bsky.social
-handle.invalid
+pilounettes.bsky.social
 impertinence83.bsky.social
 berna-phil.bsky.social
 seblambda.bsky.social
@@ -1245,7 +1245,7 @@ swansurf.bsky.social
 genx-wisdom.bsky.social
 melvynjh.bsky.social
 stuartshrugged.bsky.social
-handle.invalid
+blueswimming.bsky.social
 justinbuntingfornc.bsky.social
 thunderhead21.bsky.social
 blaket07.bsky.social
