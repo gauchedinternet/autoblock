@@ -28,6 +28,7 @@ kyesos.bsky.social
 sylviebarre.bsky.social
 loic6983.bsky.social
 drschmag.bsky.social
+dwazou.bsky.social
 karadok19.bsky.social
 northkento.bsky.social
 eric0950.bsky.social
@@ -502,7 +503,6 @@ gogologu.bsky.social
 left4ever.bsky.social
 thewhiterabbit01.bsky.social
 georges-perrin.bsky.social
-christianjean1er.bsky.social
 hubertdelandon.bsky.social
 ampoulehead.bsky.social
 joachim73.bsky.social
