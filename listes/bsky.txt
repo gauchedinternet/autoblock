@@ -1,3 +1,13 @@
+deanakclark.bsky.social
+nwenglandpats1970.bsky.social
+mamajem.bsky.social
+jlenarddetroit.bsky.social
+genx8675309.bsky.social
+kingbillyiii.bsky.social
+green34205.bsky.social
+tnmtngirl.bsky.social
+thonkmemes.bsky.social
+crimson2k24.bsky.social
 davidfalkenberg.bsky.social
 mezange.bsky.social
 rigolato.bsky.social
@@ -94,7 +104,6 @@ femme-s.bsky.social
 mariezanil.bsky.social
 cstbienmoi.bsky.social
 weltgeist333.bsky.social
-joudi-a.bsky.social
 bigjeffouille.bsky.social
 waxinho.bsky.social
 tiboinshape.bsky.social
@@ -1174,7 +1183,6 @@ demiurge2.bsky.social
 13and60.bsky.social
 libertymartin190.bsky.social
 morisot1.bsky.social
-crimson2k24.bsky.social
 maskedmarvel.bsky.social
 hats88.bsky.social
 bluesky-temp-2024.bsky.social
@@ -1481,6 +1489,7 @@ walruseats.bsky.social
 fazeobama99.bsky.social
 vivetrump.bsky.social
 benotog.bsky.social
+maxjets2024.bsky.social
 end-woke.bsky.social
 murderdolls13.bsky.social
 fornobody.bsky.social
