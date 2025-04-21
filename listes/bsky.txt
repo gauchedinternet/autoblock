@@ -658,7 +658,6 @@ fifi-710shoah.bsky.social
 sardinerousso.bsky.social
 gau606.bsky.social
 fascislamisme.bsky.social
-gufolino.bsky.social
 alphawhisky.bsky.social
 webnet.bsky.social
 zfemonamour.bsky.social
@@ -800,6 +799,7 @@ heleneparis1.bsky.social
 princessefleur.bsky.social
 classiuspope.bsky.social
 movelikejagger.bsky.social
+wmorningstar30.bsky.social
 ice33.bsky.social
 sardinette.bsky.social
 milka67.bsky.social
@@ -1481,7 +1481,6 @@ walruseats.bsky.social
 fazeobama99.bsky.social
 vivetrump.bsky.social
 benotog.bsky.social
-maxjets2024.bsky.social
 end-woke.bsky.social
 murderdolls13.bsky.social
 fornobody.bsky.social
