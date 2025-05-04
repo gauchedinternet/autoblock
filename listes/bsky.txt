@@ -28,7 +28,6 @@ gerardlantez.bsky.social
 mcweryrich.bsky.social
 lveillbruno.bsky.social
 cerfiainfo.bsky.social
-emmanuelbodennec.bsky.social
 fgriveaud.bsky.social
 tizzone.bsky.social
 bouzigue.bsky.social
@@ -1209,7 +1208,7 @@ dookusroyal.bsky.social
 patriotsbearded.bsky.social
 trhlofficial.bsky.social
 he-won.bsky.social
-handle.invalid
+republicanfighter.com
 theycallmetrue.bsky.social
 maga-45-47.bsky.social
 dmccray.bsky.social
