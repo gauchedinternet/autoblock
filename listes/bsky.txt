@@ -1,3 +1,4 @@
+divingdarkside.bsky.social
 goliath24.bsky.social
 kaveen.bsky.social
 astigmate.bsky.social
@@ -239,7 +240,7 @@ douce-france.bsky.social
 readerror.bsky.social
 guillaumesaquet.bsky.social
 aldebarandelhorme.bsky.social
-harryko8.bsky.social
+handle.invalid
 noumayos66.bsky.social
 fiobynormandy.bsky.social
 raftong.bsky.social
