@@ -35,6 +35,7 @@ mezange.bsky.social
 rigolato.bsky.social
 reneturcotte.bsky.social
 rejeandrouin.bsky.social
+violenteautodiag.bsky.social
 gerardlantez.bsky.social
 mcweryrich.bsky.social
 lveillbruno.bsky.social
