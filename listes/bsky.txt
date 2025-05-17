@@ -1,3 +1,4 @@
+louise75011.bsky.social
 no1ozme.bsky.social
 mandipo.bsky.social
 freddysirocco.bsky.social
@@ -35,7 +36,6 @@ mezange.bsky.social
 rigolato.bsky.social
 reneturcotte.bsky.social
 rejeandrouin.bsky.social
-salopeautodiag.bsky.social
 gerardlantez.bsky.social
 mcweryrich.bsky.social
 lveillbruno.bsky.social
