@@ -933,7 +933,6 @@ pepelepicard.bsky.social
 jmo5402.bsky.social
 titiwwod06.bsky.social
 titisand.bsky.social
-garance-60.bsky.social
 gaulois-de-byzance.bsky.social
 charlie31800.bsky.social
 nicoleberger.bsky.social
@@ -1638,7 +1637,6 @@ randomstu.bsky.social
 realdealll.bsky.social
 trumplover69.bsky.social
 mikeyb365.bsky.social
-alexend1.bsky.social
 morjensta.bsky.social
 washanin.bsky.social
 tronaldtrump.bsky.social
