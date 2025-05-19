@@ -1200,7 +1200,6 @@ demiurge2.bsky.social
 libertymartin190.bsky.social
 morisot1.bsky.social
 maskedmarvel.bsky.social
-hats88.bsky.social
 bluesky-temp-2024.bsky.social
 mikey-one.bsky.social
 txnx.bsky.social
