@@ -386,7 +386,7 @@ gastoncailleux.bsky.social
 bebert44.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
-ironda3.bsky.social
+handle.invalid
 jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
@@ -980,7 +980,7 @@ bonsens.bsky.social
 photojourn.bsky.social
 fabriceteamattal27.bsky.social
 solange1.bsky.social
-nathalie-cavalier.bsky.social
+handle.invalid
 flyingtotof.bsky.social
 bea-mgdx.bsky.social
 khalilramzat.bsky.social
@@ -1268,7 +1268,7 @@ melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
-thunderhead21.bsky.social
+handle.invalid
 blaket07.bsky.social
 reallouiehuey.bsky.social
 ultramagaf.bsky.social
