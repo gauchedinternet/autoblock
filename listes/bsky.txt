@@ -363,7 +363,6 @@ aizemk.bsky.social
 leftfrench.bsky.social
 police-et-realites.bsky.social
 louisonnevra.bsky.social
-marinelepenoff12.bsky.social
 jean-marielebenne.bsky.social
 thierrydom.bsky.social
 trump-757.bsky.social
@@ -411,6 +410,7 @@ jackpayet.bsky.social
 carmebertrull.bsky.social
 latruie93.bsky.social
 jeanmarielepen93.bsky.social
+aexterminateur.bsky.social
 rhodanbucco58.bsky.social
 camerone59.bsky.social
 jalcoo.bsky.social
@@ -977,7 +977,7 @@ bonsens.bsky.social
 photojourn.bsky.social
 fabriceteamattal27.bsky.social
 solange1.bsky.social
-handle.invalid
+nathalie-cavalier.bsky.social
 flyingtotof.bsky.social
 bea-mgdx.bsky.social
 khalilramzat.bsky.social
@@ -1662,7 +1662,6 @@ bkirkwood.bsky.social
 lordvaldomero1.bsky.social
 basedhandle.bsky.social
 captaintrekt.bsky.social
-imadam.xyz
 benb46.bsky.social
 cartagena11.bsky.social
 aps2100.bsky.social
