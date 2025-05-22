@@ -909,7 +909,6 @@ morgothbauglir.bsky.social
 apassapa.bsky.social
 maluchon.bsky.social
 alcapote.bsky.social
-simont32.bsky.social
 gxvi.bsky.social
 xwitter.bsky.social
 demostene35.bsky.social
