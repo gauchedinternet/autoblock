@@ -739,7 +739,7 @@ miroune.bsky.social
 mik0105.bsky.social
 jaguar51.bsky.social
 jucatalan.bsky.social
-dereymond-michel.bsky.social
+handle.invalid
 michaeladbk.bsky.social
 rodolphe51.bsky.social
 jeanfr37.bsky.social
@@ -1343,7 +1343,7 @@ aldo-raines.bsky.social
 astrofion.bsky.social
 allaniang7.bsky.social
 jeanneosecours.bsky.social
-jirofred.bsky.social
+handle.invalid
 alainhouaque-barre.bsky.social
 valdakar5.bsky.social
 jrd06.bsky.social
