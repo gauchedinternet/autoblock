@@ -1,3 +1,5 @@
+lel-media.bsky.social
+cerfia-fr.bsky.social
 carolo1er.bsky.social
 ephixstote.bsky.social
 gr95400.bsky.social
@@ -6,7 +8,6 @@ marclabbes.bsky.social
 lilibrinderbe.bsky.social
 louise75011.bsky.social
 no1ozme.bsky.social
-mandipo.bsky.social
 freddysirocco.bsky.social
 vincent-pauwels.bsky.social
 papillon4456.bsky.social
@@ -739,7 +740,7 @@ miroune.bsky.social
 mik0105.bsky.social
 jaguar51.bsky.social
 jucatalan.bsky.social
-handle.invalid
+dereymond-michel.bsky.social
 michaeladbk.bsky.social
 rodolphe51.bsky.social
 jeanfr37.bsky.social
@@ -1343,7 +1344,7 @@ aldo-raines.bsky.social
 astrofion.bsky.social
 allaniang7.bsky.social
 jeanneosecours.bsky.social
-handle.invalid
+jirofred.bsky.social
 alainhouaque-barre.bsky.social
 valdakar5.bsky.social
 jrd06.bsky.social
