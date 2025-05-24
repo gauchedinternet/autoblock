@@ -1,3 +1,4 @@
+benjaminsire.bsky.social
 lel-media.bsky.social
 cerfia-fr.bsky.social
 carolo1er.bsky.social
@@ -29,7 +30,7 @@ carabi.bsky.social
 voodoo1969.bsky.social
 djac855.bsky.social
 deanakclark.bsky.social
-nwenglandpats1970.bsky.social
+handle.invalid
 mamajem.bsky.social
 jlenarddetroit.bsky.social
 kingbillyiii.bsky.social
