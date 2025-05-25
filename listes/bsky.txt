@@ -673,7 +673,7 @@ leperr.bsky.social
 dannydoe.bsky.social
 salomerainbow.bsky.social
 trellu.moal.tf
-verheydjim.bsky.social
+jimverhey.bsky.social
 sigur1968.bsky.social
 piloutin.bsky.social
 max459899.bsky.social
@@ -1269,7 +1269,7 @@ melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
-handle.invalid
+thunderhead21.bsky.social
 blaket07.bsky.social
 reallouiehuey.bsky.social
 ultramagaf.bsky.social
