@@ -1,3 +1,4 @@
+davidbreizh.bsky.social
 legrugru.fr
 jabba26.bsky.social
 francescience.bsky.social
@@ -23,7 +24,6 @@ astigmate.bsky.social
 dovmimran.bsky.social
 lamiavita.bsky.social
 angel575962.bsky.social
-zpill.bsky.social
 pierreballoffet.bsky.social
 libsoftiktoc.bsky.social
 tenet.video
@@ -654,7 +654,6 @@ sakharine.bsky.social
 kepfren.bsky.social
 nort99.bsky.social
 le-grinch.bsky.social
-sihamegroscul.bsky.social
 sihameassbague.bsky.social
 thibaultcandau.bsky.social
 fokewoke.bsky.social
