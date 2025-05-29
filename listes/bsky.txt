@@ -1,3 +1,5 @@
+gogopopo.bsky.social
+petitcronstadt.bsky.social
 boubouj.bsky.social
 mdr850.bsky.social
 davidbreizh.bsky.social
@@ -615,7 +617,6 @@ daedalus31.bsky.social
 lfiotte.bsky.social
 ernest10o.bsky.social
 oriann666.bsky.social
-wakidaisho.bsky.social
 lfi-filsdepute.bsky.social
 lnzez.bsky.social
 fu-manchu-bzh.bsky.social
