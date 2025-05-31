@@ -1,7 +1,8 @@
+kalmetoi.bsky.social
 raselaghul.bsky.social
 alekzar.bsky.social
 gogopopo.bsky.social
-petitcronstadt.bsky.social
+handle.invalid
 boubouj.bsky.social
 mdr850.bsky.social
 davidbreizh.bsky.social
@@ -221,7 +222,7 @@ papillondufleuve.bsky.social
 reminet.bsky.social
 danaeaquilegia.bsky.social
 visiblement2021.bsky.social
-moonzray.bsky.social
+handle.invalid
 infinitywizion.bsky.social
 pascalbeuvelet.bsky.social
 olivierbriancon.bsky.social
@@ -1269,6 +1270,7 @@ r2401.bsky.social
 anarchmonarch.bsky.social
 swansurf.bsky.social
 genx-wisdom.bsky.social
+melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
