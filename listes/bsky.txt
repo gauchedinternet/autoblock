@@ -1,8 +1,9 @@
+dioscoride.bsky.social
 kalmetoi.bsky.social
 raselaghul.bsky.social
 alekzar.bsky.social
 gogopopo.bsky.social
-handle.invalid
+petitcronstadt.bsky.social
 boubouj.bsky.social
 mdr850.bsky.social
 davidbreizh.bsky.social
@@ -222,7 +223,7 @@ papillondufleuve.bsky.social
 reminet.bsky.social
 danaeaquilegia.bsky.social
 visiblement2021.bsky.social
-handle.invalid
+moonzray.bsky.social
 infinitywizion.bsky.social
 pascalbeuvelet.bsky.social
 olivierbriancon.bsky.social
