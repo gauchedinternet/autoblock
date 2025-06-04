@@ -1,3 +1,4 @@
+skyloro.bsky.social
 jonas1970.bsky.social
 pascaljvr.bsky.social
 henri1357.bsky.social
@@ -515,7 +516,6 @@ bastienfrexit.bsky.social
 comtorenn.bsky.social
 forceetpatrie.bsky.social
 lamaininvisible.bsky.social
-findestemps.bsky.social
 alex-t-carrier.bsky.social
 jmenfouspas.bsky.social
 tru5tno1.bsky.social
