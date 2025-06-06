@@ -1,3 +1,6 @@
+manu-bo.bsky.social
+rackham-lerouge.bsky.social
+fox-63.bsky.social
 skyloro.bsky.social
 jonas1970.bsky.social
 pascaljvr.bsky.social
@@ -12,6 +15,7 @@ petitcronstadt.bsky.social
 boubouj.bsky.social
 mdr850.bsky.social
 davidbreizh.bsky.social
+legrugru.fr
 jabba26.bsky.social
 francescience.bsky.social
 benjaminsire.bsky.social
