@@ -1,3 +1,4 @@
+blasteur.bsky.social
 avisartificiels.bsky.social
 manu-bo.bsky.social
 rackham-lerouge.bsky.social
