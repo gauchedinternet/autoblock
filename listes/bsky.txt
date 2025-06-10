@@ -597,7 +597,6 @@ lesbienneantifa.bsky.social
 symuli.bsky.social
 johndo94.bsky.social
 siocnarf13011.bsky.social
-marcel-lambert.bsky.social
 esteban-sle.bsky.social
 bsnoeck.bsky.social
 larmesdegauchiasse.bsky.social
@@ -1236,7 +1235,6 @@ he-won.bsky.social
 republicanfighter.com
 theycallmetrue.bsky.social
 maga-45-47.bsky.social
-dmccray.bsky.social
 natejon.bsky.social
 asher312.bsky.social
 sweethomemich.bsky.social
