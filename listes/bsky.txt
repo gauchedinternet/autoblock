@@ -1,3 +1,4 @@
+diligiant.org
 david-dandolo.bsky.social
 gmich.bsky.social
 nicoroud.bsky.social
@@ -1139,6 +1140,7 @@ eagletrumpforce.bsky.social
 trumpappreciation.bsky.social
 prizey.bsky.social
 caredacted.bsky.social
+magagod.bsky.social
 fedsrwatching.bsky.social
 loyaltotheparty2.bsky.social
 magaempire.bsky.social
