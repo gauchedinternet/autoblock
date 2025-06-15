@@ -1280,7 +1280,6 @@ r2401.bsky.social
 anarchmonarch.bsky.social
 swansurf.bsky.social
 genx-wisdom.bsky.social
-melvynjh.bsky.social
 stuartshrugged.bsky.social
 blueswimming.bsky.social
 justinbuntingfornc.bsky.social
