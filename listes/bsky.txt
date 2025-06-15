@@ -1,3 +1,4 @@
+lefouduroi.bsky.social
 diligiant.org
 david-dandolo.bsky.social
 gmich.bsky.social
@@ -8,7 +9,6 @@ jbrphnd.bsky.social
 arnaudabel.bsky.social
 aeris.eu.org
 lesaabistedebsky.bsky.social
-blasteur.bsky.social
 avisartificiels.bsky.social
 manu-bo.bsky.social
 rackham-lerouge.bsky.social
