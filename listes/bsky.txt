@@ -272,6 +272,7 @@ monsieur14.bsky.social
 krytchek.bsky.social
 martelmoica.bsky.social
 donald-trompe.bsky.social
+douce-france.bsky.social
 readerror.bsky.social
 guillaumesaquet.bsky.social
 aldebarandelhorme.bsky.social
