@@ -1,6 +1,9 @@
+rosenad.bsky.social
+catchou2411.bsky.social
+eric3407.bsky.social
+redresseurdetorts.bsky.social
 jeandupond.bsky.social
 rugueux.bsky.social
-melformel.bsky.social
 tanguylacroix.bsky.social
 notrecarapace.bsky.social
 apikorsim.bsky.social
@@ -1148,7 +1151,6 @@ eaglesman710.bsky.social
 ridingred.bsky.social
 alexjoneswasright.bsky.social
 magatothebone.bsky.social
-trumpwonagain.bsky.social
 trumpswins.bsky.social
 eagletrumpforce.bsky.social
 trumpappreciation.bsky.social
