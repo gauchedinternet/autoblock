@@ -298,7 +298,6 @@ readerror.bsky.social
 guillaumesaquet.bsky.social
 aldebarandelhorme.bsky.social
 harryko8.bsky.social
-noumayos66.bsky.social
 fiobynormandy.bsky.social
 raftong.bsky.social
 rickwill.bsky.social
