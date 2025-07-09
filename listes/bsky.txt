@@ -54,6 +54,7 @@ gogopopo.bsky.social
 petitcronstadt.bsky.social
 boubouj.bsky.social
 mdr850.bsky.social
+davidbreizh.bsky.social
 legrugru.fr
 jabba26.bsky.social
 francescience.bsky.social
@@ -817,7 +818,6 @@ laragekimonte.bsky.social
 narcose.bsky.social
 yacmi.bsky.social
 axoulotl08.bsky.social
-seayou.bsky.social
 emilefranc.bsky.social
 toxicjok.bsky.social
 leon-saint-eloi.bsky.social
