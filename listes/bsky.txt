@@ -483,7 +483,6 @@ buburom.bsky.social
 fouadalifoufou.bsky.social
 nstreichenberger.bsky.social
 olisbosx1.bsky.social
-pigxid.bsky.social
 frtradi.bsky.social
 captnsobvious.bsky.social
 taoki-paris.bsky.social
@@ -1539,6 +1538,7 @@ walruseats.bsky.social
 fazeobama99.bsky.social
 vivetrump.bsky.social
 benotog.bsky.social
+maxjets2024.bsky.social
 end-woke.bsky.social
 murderdolls13.bsky.social
 fornobody.bsky.social
