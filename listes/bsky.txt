@@ -156,6 +156,7 @@ yannick-fantastic.bsky.social
 agfreedom.bsky.social
 coq6.bsky.social
 jqd1.bsky.social
+leochinben.bsky.social
 iceman91.bsky.social
 homer6177.bsky.social
 teemsassa.bsky.social
@@ -722,7 +723,7 @@ leperr.bsky.social
 dannydoe.bsky.social
 salomerainbow.bsky.social
 trellu.moal.tf
-jimverhey.bsky.social
+verhey--jimric.bsky.social
 sigur1968.bsky.social
 piloutin.bsky.social
 max459899.bsky.social
