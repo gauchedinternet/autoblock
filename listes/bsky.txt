@@ -976,7 +976,7 @@ morgothbauglir.bsky.social
 apassapa.bsky.social
 maluchon.bsky.social
 alcapote.bsky.social
-gxvi.bsky.social
+handle.invalid
 xwitter.bsky.social
 demostene35.bsky.social
 drchampo.bsky.social
