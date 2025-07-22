@@ -1,3 +1,4 @@
+barbufist.bsky.social
 setsilski.bsky.social
 bonob0h.bsky.social
 flyingduke.bsky.social
@@ -375,7 +376,6 @@ zoubazouba.bsky.social
 femmelibertevie.bsky.social
 patrick-rizzo.bsky.social
 ssely.bsky.social
-antilfi.bsky.social
 ericctout.bsky.social
 pauloparigot.bsky.social
 louisanton.bsky.social
