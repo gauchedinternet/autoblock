@@ -1,3 +1,6 @@
+aassfxxx.bsky.social
+comtorenn.bsky.social
+serabas81.bsky.social
 barbufist.bsky.social
 setsilski.bsky.social
 bonob0h.bsky.social
@@ -7,7 +10,6 @@ b38s83.bsky.social
 watyan.bsky.social
 coeurderocker.bsky.social
 miric91.bsky.social
-henri5644.bsky.social
 doc-loveless.bsky.social
 geopolitis.bsky.social
 raphael-enthoven.bsky.social
@@ -571,7 +573,6 @@ guillaumergb.bsky.social
 yveshanouna.bsky.social
 soldatnumerique.bsky.social
 bastienfrexit.bsky.social
-comtorenn.bsky.social
 forceetpatrie.bsky.social
 lamaininvisible.bsky.social
 alex-t-carrier.bsky.social
