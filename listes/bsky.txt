@@ -826,6 +826,7 @@ abitoff.bsky.social
 phildelain.bsky.social
 dextercmoi.bsky.social
 brandonzuckito.bsky.social
+synthetic-memories.bsky.social
 hsehnamap.bsky.social
 pc19.bsky.social
 carbolite.bsky.social
