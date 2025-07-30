@@ -1,3 +1,5 @@
+farlistener.bsky.social
+birdyydrib.bsky.social
 jeremychantelot.bsky.social
 1-cognito.bsky.social
 william75018.bsky.social
@@ -512,6 +514,7 @@ buburom.bsky.social
 fouadalifoufou.bsky.social
 nstreichenberger.bsky.social
 olisbosx1.bsky.social
+kenny-fr.bsky.social
 frtradi.bsky.social
 captnsobvious.bsky.social
 taoki-paris.bsky.social
