@@ -1,3 +1,4 @@
+jeremychantelot.bsky.social
 1-cognito.bsky.social
 william75018.bsky.social
 erwanseznec.bsky.social
@@ -26,6 +27,7 @@ arnotlse.bsky.social
 bullshiteur.bsky.social
 pamperigouste.bsky.social
 capturedepikachu.bsky.social
+charlietoujours.bsky.social
 bakou924.bsky.social
 remyletourneur.bsky.social
 marcel32.bsky.social
