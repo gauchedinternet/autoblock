@@ -1,3 +1,7 @@
+lmedn.bsky.social
+westbanksurfer.bsky.social
+belnea.bsky.social
+massinnissa.bsky.social
 lair2rien.bsky.social
 farlistener.bsky.social
 birdyydrib.bsky.social
@@ -1290,7 +1294,7 @@ dookusroyal.bsky.social
 patriotsbearded.bsky.social
 trhlofficial.bsky.social
 he-won.bsky.social
-handle.invalid
+republicanfighter.com
 theycallmetrue.bsky.social
 maga-45-47.bsky.social
 natejon.bsky.social
