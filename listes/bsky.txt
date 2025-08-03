@@ -30,6 +30,7 @@ raphael-enthoven.bsky.social
 will-nicks-off.bsky.social
 fraternel.bsky.social
 3cpasmoi.bsky.social
+arnotlse.bsky.social
 bullshiteur.bsky.social
 pamperigouste.bsky.social
 capturedepikachu.bsky.social
@@ -1606,6 +1607,7 @@ thomasjfavre.bsky.social
 makaplan.bsky.social
 touitaccount.bsky.social
 rdtfr.bsky.social
+cristy75.bsky.social
 yves6338.bsky.social
 fouteurdemerde.bsky.social
 vincentl.bsky.social
