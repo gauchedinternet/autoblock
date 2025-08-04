@@ -1,3 +1,4 @@
+boulicomptesecret.bsky.social
 lmedn.bsky.social
 westbanksurfer.bsky.social
 belnea.bsky.social
@@ -1227,7 +1228,6 @@ tacocat100.bsky.social
 geoffbezos6.bsky.social
 mjgranger1.bsky.social
 trumpwon24.bsky.social
-yolanda23.bsky.social
 abcpodcast.bsky.social
 pendozer.bsky.social
 richardcitizen.bsky.social
