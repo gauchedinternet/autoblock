@@ -415,7 +415,6 @@ mdakapo.bsky.social
 axio360.bsky.social
 niholaspeijan.bsky.social
 djacko.bsky.social
-deesse-paideu.bsky.social
 vascri.bsky.social
 trump-le-boss.bsky.social
 lucrosier.bsky.social
