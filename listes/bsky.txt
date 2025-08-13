@@ -1,3 +1,4 @@
+crys66.bsky.social
 lantisemite.bsky.social
 aeris.eu.org
 mick81.bsky.social
@@ -1237,7 +1238,6 @@ pendozer.bsky.social
 richardcitizen.bsky.social
 magadonia1776.bsky.social
 jen30.bsky.social
-retiredvetusn.bsky.social
 jabbathewokey.bsky.social
 chaseincommieland.bsky.social
 iansbrodrick.bsky.social
@@ -1297,7 +1297,7 @@ dookusroyal.bsky.social
 patriotsbearded.bsky.social
 trhlofficial.bsky.social
 he-won.bsky.social
-republicanfighter.com
+handle.invalid
 theycallmetrue.bsky.social
 maga-45-47.bsky.social
 natejon.bsky.social
