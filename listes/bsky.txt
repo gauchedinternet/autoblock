@@ -4,6 +4,7 @@ philippepoigeaud.bsky.social
 martin4040.bsky.social
 thytivilus.bsky.social
 skymarauder.bsky.social
+maga-apologist.bsky.social
 crys66.bsky.social
 aeris.eu.org
 mick81.bsky.social
@@ -276,7 +277,7 @@ moiblue45.bsky.social
 futura-didou.bsky.social
 isabelletlabete.bsky.social
 mriceberg.bsky.social
-handle.invalid
+malekbaroudi.bsky.social
 krassenstein.bsky.social
 lr3z.bsky.social
 jppyv.bsky.social
@@ -974,7 +975,6 @@ defan68.bsky.social
 isabellelas.bsky.social
 turbomaxidroite.bsky.social
 celinepina.bsky.social
-lolo75012.bsky.social
 bidule1er.bsky.social
 fbroglie.bsky.social
 moilorient.bsky.social
