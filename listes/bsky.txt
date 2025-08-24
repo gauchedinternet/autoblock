@@ -1,3 +1,4 @@
+boules2petanque.bsky.social
 nicolasquipaies.bsky.social
 nestcepas1928.bsky.social
 nhabouzite.bsky.social
@@ -31,7 +32,6 @@ boobali.bsky.social
 boulysky.bsky.social
 france-foyer-laic.bsky.social
 section-bering.bsky.social
-maksim1977.bsky.social
 laesperenza.bsky.social
 jpmafragh.bsky.social
 philippepoigeaud.bsky.social
@@ -607,7 +607,6 @@ raphaeiio.bsky.social
 saccageparis12.bsky.social
 adrienchauderon.bsky.social
 boumboumfr.bsky.social
-thomasveryone.bsky.social
 wittgensteinien.bsky.social
 val-sch.bsky.social
 bigornant.bsky.social
