@@ -35,7 +35,6 @@ boobali.bsky.social
 boulysky.bsky.social
 france-foyer-laic.bsky.social
 section-bering.bsky.social
-maksim1977.bsky.social
 laesperenza.bsky.social
 jpmafragh.bsky.social
 philippepoigeaud.bsky.social
@@ -585,7 +584,6 @@ russien.bsky.social
 vucatigeje.bsky.social
 pierrecallamand.bsky.social
 arnault75.bsky.social
-franc-tireur-fr.bsky.social
 ze-seuguh.bsky.social
 da7idse7en.bsky.social
 bhanau.bsky.social
@@ -688,7 +686,6 @@ anna-turtle56.bsky.social
 zathraas.bsky.social
 thepatriott.bsky.social
 royalistefab54.bsky.social
-lefloon.bsky.social
 sebbecker.bsky.social
 revenezlesgauchos.bsky.social
 fajiulong.bsky.social
