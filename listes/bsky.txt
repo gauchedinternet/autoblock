@@ -40,6 +40,7 @@ boobali.bsky.social
 boulysky.bsky.social
 france-foyer-laic.bsky.social
 section-bering.bsky.social
+maksim1977.bsky.social
 laesperenza.bsky.social
 jpmafragh.bsky.social
 philippepoigeaud.bsky.social
