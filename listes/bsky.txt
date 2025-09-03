@@ -1,3 +1,4 @@
+zorro-blanc.bsky.social
 pierreboulilambert.bsky.social
 jack-d7.bsky.social
 trinita78.bsky.social
@@ -1169,7 +1170,7 @@ poboisson.bsky.social
 fcstn.bsky.social
 fxa007lecentriste.bsky.social
 mohamedmourad-19.bsky.social
-gillesh38.bsky.social
+handle.invalid
 liloue31.bsky.social
 elipo.bsky.social
 aubontouite.bsky.social
