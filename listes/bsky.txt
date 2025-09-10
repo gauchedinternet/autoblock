@@ -1,3 +1,7 @@
+stefapblin.bsky.social
+jeremy1735.bsky.social
+treminou.bsky.social
+lionfranc37.bsky.social
 denisprindle18-2.bsky.social
 zandber.bsky.social
 olafco04.bsky.social
@@ -49,7 +53,6 @@ boobali.bsky.social
 boulysky.bsky.social
 france-foyer-laic.bsky.social
 section-bering.bsky.social
-maksim1977.bsky.social
 laesperenza.bsky.social
 jpmafragh.bsky.social
 philippepoigeaud.bsky.social
