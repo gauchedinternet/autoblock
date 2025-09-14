@@ -849,7 +849,6 @@ thirolls.bsky.social
 thierry-cousin.bsky.social
 jfpellissier.bsky.social
 lajon777.bsky.social
-davenavis.bsky.social
 verlinde.bsky.social
 michelrevel.bsky.social
 pascaldul2024.bsky.social
