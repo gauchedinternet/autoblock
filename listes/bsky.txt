@@ -1169,7 +1169,7 @@ mayecoco.bsky.social
 sebinthesky.bsky.social
 imarick.bsky.social
 boitaair.bsky.social
-udiaq.bsky.social
+handle.invalid
 automath.bsky.social
 demosthene37.bsky.social
 curiousguy12345.bsky.social
@@ -1478,7 +1478,6 @@ julien25220.bsky.social
 rtcnmp.bsky.social
 bebertlagauchiasse.bsky.social
 aldo-raines.bsky.social
-astrofion.bsky.social
 allaniang7.bsky.social
 jeanneosecours.bsky.social
 jirofred.bsky.social
