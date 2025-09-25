@@ -1169,7 +1169,7 @@ mayecoco.bsky.social
 sebinthesky.bsky.social
 imarick.bsky.social
 boitaair.bsky.social
-handle.invalid
+udiaq.bsky.social
 automath.bsky.social
 demosthene37.bsky.social
 curiousguy12345.bsky.social
