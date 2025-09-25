@@ -1477,6 +1477,7 @@ julien25220.bsky.social
 rtcnmp.bsky.social
 bebertlagauchiasse.bsky.social
 aldo-raines.bsky.social
+astrofion.bsky.social
 allaniang7.bsky.social
 jeanneosecours.bsky.social
 jirofred.bsky.social
