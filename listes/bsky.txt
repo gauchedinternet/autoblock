@@ -18,7 +18,6 @@ alkanam.bsky.social
 ducalian.bsky.social
 dupont45.bsky.social
 stefapblin.bsky.social
-jeremy1735.bsky.social
 lionfranc37.bsky.social
 denisprindle18-2.bsky.social
 zandber.bsky.social
@@ -1800,7 +1799,6 @@ jhk47.bsky.social
 ereyes26.bsky.social
 twemp.bsky.social
 helpnds.bsky.social
-daryl-martis.bsky.social
 joelthegiraffe.bsky.social
 newvak.bsky.social
 snowflake6776.bsky.social
