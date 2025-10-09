@@ -196,7 +196,6 @@ dovmimran.bsky.social
 lamiavita.bsky.social
 angel575962.bsky.social
 pierreballoffet.bsky.social
-libsoftiktoc.bsky.social
 tenet.video
 davidcharles1983.bsky.social
 fuzzynutz420.bsky.social
@@ -534,7 +533,6 @@ jean-marielebenne.bsky.social
 thierrydom.bsky.social
 trump-757.bsky.social
 yoyo8571.bsky.social
-alain563.bsky.social
 apernoster.bsky.social
 stephane-giordano.bsky.social
 trollhunter.bsky.social
