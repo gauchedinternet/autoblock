@@ -703,7 +703,7 @@ remyrn.bsky.social
 web3bard.bsky.social
 cc6951.bsky.social
 jeanmariegoursat.bsky.social
-liam34000.bsky.social
+handle.invalid
 fullsocialornot.bsky.social
 tabliboo.bsky.social
 jeremiejak.bsky.social
