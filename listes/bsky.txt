@@ -1541,7 +1541,7 @@ foxfull.bsky.social
 thibuzz.bsky.social
 thyg71.bsky.social
 y4kamoneye.bsky.social
-phoenix770.bsky.social
+handle.invalid
 velzic.bsky.social
 drlaskar.bsky.social
 ifyouarefrench.bsky.social
@@ -1665,7 +1665,6 @@ thomasjfavre.bsky.social
 makaplan.bsky.social
 touitaccount.bsky.social
 rdtfr.bsky.social
-cristy75.bsky.social
 yves6338.bsky.social
 fouteurdemerde.bsky.social
 vincentl.bsky.social
