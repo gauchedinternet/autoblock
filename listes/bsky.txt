@@ -216,7 +216,7 @@ mezange.bsky.social
 rigolato.bsky.social
 reneturcotte.bsky.social
 rejeandrouin.bsky.social
-plusbellelastreeet.bsky.social
+plubellelastreeet.bsky.social
 gerardlantez.bsky.social
 mcweryrich.bsky.social
 lveillbruno.bsky.social
@@ -276,7 +276,6 @@ dajual.bsky.social
 mobutoulss.bsky.social
 yogiyogui.bsky.social
 kembo34.bsky.social
-aude33800.bsky.social
 phil19590.bsky.social
 vincentf1976.bsky.social
 gex-rider.bsky.social
@@ -1541,7 +1540,7 @@ foxfull.bsky.social
 thibuzz.bsky.social
 thyg71.bsky.social
 y4kamoneye.bsky.social
-handle.invalid
+phoenix770.bsky.social
 velzic.bsky.social
 drlaskar.bsky.social
 ifyouarefrench.bsky.social
