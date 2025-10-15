@@ -1303,7 +1303,7 @@ garybee.bsky.social
 pamichelle.bsky.social
 brianna.bsky.social
 gello-kennedy.bsky.social
-notrobertfkennedy.bsky.social
+handle.invalid
 deltadawn7.bsky.social
 drea4343.bsky.social
 sheppie.bsky.social
