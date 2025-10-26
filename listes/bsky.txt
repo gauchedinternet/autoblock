@@ -89,7 +89,6 @@ aeris.eu.org
 mick81.bsky.social
 zorkmorin.bsky.social
 maitrequenellier.bsky.social
-lesarchives.bsky.social
 westbanksurfer.bsky.social
 belnea.bsky.social
 massinnissa.bsky.social
@@ -1376,7 +1375,6 @@ grumpyoldpapaw.bsky.social
 tamalehunter.bsky.social
 issiech.bsky.social
 trumpwonharrislost.bsky.social
-finpel-dorred.bsky.social
 bandwidth-beard.bsky.social
 meme-k-ultra.bsky.social
 nmcgillivray.bsky.social
