@@ -685,7 +685,6 @@ turbo-libre.bsky.social
 louracky.bsky.social
 odileblandino.bsky.social
 bip-bip.bsky.social
-francaisfier.bsky.social
 marianne-labu.bsky.social
 laurent-k.bsky.social
 emmanuelyvon.bsky.social
