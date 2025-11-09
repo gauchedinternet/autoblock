@@ -1,3 +1,4 @@
+olivierwconseil.bsky.social
 serge-g.bsky.social
 willnicks-off.bsky.social
 profcharlie1.bsky.social
@@ -209,7 +210,7 @@ dovmimran.bsky.social
 lamiavita.bsky.social
 angel575962.bsky.social
 pierreballoffet.bsky.social
-tenet.video
+handle.invalid
 davidcharles1983.bsky.social
 fuzzynutz420.bsky.social
 carabi.bsky.social
