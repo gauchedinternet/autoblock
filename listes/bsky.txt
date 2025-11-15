@@ -281,7 +281,7 @@ yannick-fantastic.bsky.social
 agfreedom.bsky.social
 coq6.bsky.social
 jqd1.bsky.social
-iceman91.bsky.social
+handle.invalid
 homer6177.bsky.social
 teemsassa.bsky.social
 dajual.bsky.social
