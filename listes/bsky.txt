@@ -4,7 +4,6 @@ windscribevpn.bsky.social
 mephisto1900.bsky.social
 reeltchernobylus.bsky.social
 obsdum.bsky.social
-bertrand5644.bsky.social
 jpbchn.bsky.social
 2afrancky.bsky.social
 olivierwconseil.bsky.social
@@ -567,6 +566,7 @@ bebert44.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
 ironda3.bsky.social
+jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
 lannig29.bsky.social
