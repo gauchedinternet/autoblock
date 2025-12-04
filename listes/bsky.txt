@@ -287,7 +287,6 @@ coq6.bsky.social
 jqd1.bsky.social
 iceman91.bsky.social
 homer6177.bsky.social
-teemsassa.bsky.social
 dajual.bsky.social
 mobutoulss.bsky.social
 yogiyogui.bsky.social
