@@ -1394,7 +1394,6 @@ mamlam.bsky.social
 cheboygan.bsky.social
 fernfreeman.bsky.social
 1776ghost.bsky.social
-wmc914.bsky.social
 sgueli.bsky.social
 magat1971.bsky.social
 teddyp1776.bsky.social
@@ -1673,7 +1672,6 @@ thomasjfavre.bsky.social
 makaplan.bsky.social
 touitaccount.bsky.social
 rdtfr.bsky.social
-cristy7475.bsky.social
 yves6338.bsky.social
 fouteurdemerde.bsky.social
 vincentl.bsky.social
