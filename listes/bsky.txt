@@ -1672,6 +1672,7 @@ thomasjfavre.bsky.social
 makaplan.bsky.social
 touitaccount.bsky.social
 rdtfr.bsky.social
+cristy7475.bsky.social
 yves6338.bsky.social
 fouteurdemerde.bsky.social
 vincentl.bsky.social
