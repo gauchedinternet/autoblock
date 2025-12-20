@@ -1,3 +1,4 @@
+lefrancaisdesouche.bsky.social
 thierry2a.bsky.social
 profcharlie2026.bsky.social
 notlesarchives.bsky.social
@@ -546,7 +547,6 @@ xutol.bsky.social
 nhoksylvie.bsky.social
 aizemk.bsky.social
 leftfrench.bsky.social
-police-et-realites.bsky.social
 louisonnevra.bsky.social
 jean-marielebenne.bsky.social
 thierrydom.bsky.social
@@ -1304,7 +1304,6 @@ trumpwon24.bsky.social
 abcpodcast.bsky.social
 pendozer.bsky.social
 richardcitizen.bsky.social
-magadonia1776.bsky.social
 jen30.bsky.social
 jabbathewokey.bsky.social
 chaseincommieland.bsky.social
