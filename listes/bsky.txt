@@ -1,10 +1,10 @@
+ternoise.bsky.social
 lefrancaisdesouche.bsky.social
 thierry2a.bsky.social
 profcharlie2026.bsky.social
 notlesarchives.bsky.social
 landaisbo.bsky.social
 kallimakhos.bsky.social
-olivier1921.bsky.social
 mawinon.bsky.social
 xprigent3.bsky.social
 windscribevpn.bsky.social
@@ -836,7 +836,7 @@ leperr.bsky.social
 dannydoe.bsky.social
 salomerainbow.bsky.social
 trellu.moal.tf
-verhey--jimric.bsky.social
+jimricverheyde.bsky.social
 sigur1968.bsky.social
 max459899.bsky.social
 jrc121.bsky.social
@@ -1564,7 +1564,6 @@ aurelia34.bsky.social
 i24news.bsky.social
 leafleur.bsky.social
 ibtissem92.bsky.social
-antoinetal.bsky.social
 ouinouindu93.bsky.social
 francinesniffette.bsky.social
 doudout.bsky.social
