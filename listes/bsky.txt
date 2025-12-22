@@ -2,7 +2,6 @@ ternoise.bsky.social
 lefrancaisdesouche.bsky.social
 thierry2a.bsky.social
 profcharlie2026.bsky.social
-notlesarchives.bsky.social
 landaisbo.bsky.social
 kallimakhos.bsky.social
 mawinon.bsky.social
