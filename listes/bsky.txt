@@ -1,5 +1,4 @@
 ternoise.bsky.social
-lefrancaisdesouche.bsky.social
 thierry2a.bsky.social
 profcharlie2026.bsky.social
 notlesarchives.bsky.social
@@ -130,6 +129,7 @@ watyan.bsky.social
 coeurderocker.bsky.social
 miric91.bsky.social
 doc-loveless.bsky.social
+geopolitis.bsky.social
 raphael-enthoven.bsky.social
 will-nicks-off.bsky.social
 fraternel.bsky.social
