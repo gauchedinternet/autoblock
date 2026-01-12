@@ -184,7 +184,6 @@ avisartificiels.bsky.social
 rackham-lerouge.bsky.social
 fox-63.bsky.social
 skyloro.bsky.social
-jonas1970.bsky.social
 pascaljvr.bsky.social
 maitredegolas.bsky.social
 dioscoride.bsky.social
@@ -826,7 +825,6 @@ pasvictorferry.bsky.social
 dumecasta.bsky.social
 fabienmonvoisin.bsky.social
 gavberserk.bsky.social
-gerard-bouchard.bsky.social
 phil35.bsky.social
 fandetv.bsky.social
 jeanmi5164.bsky.social
