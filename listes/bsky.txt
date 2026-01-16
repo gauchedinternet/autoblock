@@ -693,7 +693,7 @@ pouvoiraupeuple.bsky.social
 turbo-libre.bsky.social
 louracky.bsky.social
 odileblandino.bsky.social
-handle.invalid
+bip-bip.bsky.social
 marianne-labu.bsky.social
 laurent-k.bsky.social
 emmanuelyvon.bsky.social
