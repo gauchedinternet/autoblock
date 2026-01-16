@@ -691,7 +691,7 @@ pouvoiraupeuple.bsky.social
 turbo-libre.bsky.social
 louracky.bsky.social
 odileblandino.bsky.social
-bip-bip.bsky.social
+handle.invalid
 marianne-labu.bsky.social
 laurent-k.bsky.social
 emmanuelyvon.bsky.social
@@ -1026,7 +1026,7 @@ rayaue.bsky.social
 datgirltwista.bsky.social
 pmassch2.bsky.social
 gpto76.bsky.social
-martineidf.bsky.social
+handle.invalid
 monalulu.bsky.social
 bienewolf.bsky.social
 fellaramos.bsky.social
