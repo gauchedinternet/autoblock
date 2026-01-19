@@ -265,7 +265,6 @@ kyesos.bsky.social
 sylviebarre.bsky.social
 loic6983.bsky.social
 drschmag.bsky.social
-dwazou.bsky.social
 karadok19.bsky.social
 northkento.bsky.social
 eric0950.bsky.social
@@ -902,7 +901,6 @@ agallez.bsky.social
 pinouille.bsky.social
 monica-artelette.bsky.social
 alb260158.bsky.social
-miroune.bsky.social
 mik0105.bsky.social
 jaguar51.bsky.social
 dereymond-michel.bsky.social
