@@ -14,7 +14,6 @@ notlesarchives.bsky.social
 landaisbo.bsky.social
 kallimakhos.bsky.social
 mawinon.bsky.social
-xprigent3.bsky.social
 windscribevpn.bsky.social
 mephisto1900.bsky.social
 reeltchernobylus.bsky.social
