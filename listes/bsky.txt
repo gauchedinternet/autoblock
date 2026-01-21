@@ -807,7 +807,6 @@ crp1969.bsky.social
 siraldo974.bsky.social
 alsosobistro.bsky.social
 toto--66.bsky.social
-mangeur-de-clowns.bsky.social
 susauintrus.bsky.social
 rebel-wolf.bsky.social
 francka.bsky.social
@@ -1026,7 +1025,7 @@ rayaue.bsky.social
 datgirltwista.bsky.social
 pmassch2.bsky.social
 gpto76.bsky.social
-handle.invalid
+martineidf.bsky.social
 monalulu.bsky.social
 bienewolf.bsky.social
 fellaramos.bsky.social
