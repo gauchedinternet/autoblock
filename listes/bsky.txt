@@ -266,6 +266,7 @@ kyesos.bsky.social
 sylviebarre.bsky.social
 loic6983.bsky.social
 drschmag.bsky.social
+dwazou.bsky.social
 karadok19.bsky.social
 northkento.bsky.social
 eric0950.bsky.social
