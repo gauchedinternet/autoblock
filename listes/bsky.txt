@@ -144,7 +144,7 @@ fraternel.bsky.social
 3cpasmoi.bsky.social
 arnotlse.bsky.social
 bullshiteur.bsky.social
-pamperigouste.bsky.social
+handle.invalid
 bakou924.bsky.social
 remyletourneur.bsky.social
 midwitmorality.bsky.social
@@ -572,7 +572,6 @@ bebert44.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
 ironda3.bsky.social
-jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
 lannig29.bsky.social
