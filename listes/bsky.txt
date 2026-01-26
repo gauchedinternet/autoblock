@@ -1,3 +1,4 @@
+lediabledecuba2.bsky.social
 croisichelles.bsky.social
 maun33800.bsky.social
 icegov.bsky.social
@@ -80,7 +81,6 @@ boulisterie.bsky.social
 newton60.bsky.social
 a10bouli-furtif.bsky.social
 boulinerousseau.bsky.social
-dianesevenkeys.bsky.social
 no-woke-go-broke.bsky.social
 psykiwi.bsky.social
 adoltomussoliner.bsky.social
