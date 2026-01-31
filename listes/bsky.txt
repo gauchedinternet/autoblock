@@ -137,7 +137,6 @@ watyan.bsky.social
 coeurderocker.bsky.social
 miric91.bsky.social
 doc-loveless.bsky.social
-geopolitis.bsky.social
 raphael-enthoven.bsky.social
 will-nicks-off.bsky.social
 fraternel.bsky.social
