@@ -1,3 +1,5 @@
+franckperso.bsky.social
+alexandre3635.bsky.social
 lediabledecuba2.bsky.social
 croisichelles.bsky.social
 maun33800.bsky.social
@@ -71,7 +73,6 @@ boulireligieuse.bsky.social
 boulingr.bsky.social
 karlkreuzberg.bsky.social
 boules2petanque.bsky.social
-nicolasquipaies.bsky.social
 nestcepas1928.bsky.social
 nhabouzite.bsky.social
 bouli-surfer.bsky.social
