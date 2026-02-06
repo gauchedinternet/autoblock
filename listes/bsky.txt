@@ -588,7 +588,7 @@ rosbroff.bsky.social
 politicar.bsky.social
 cricrif46.bsky.social
 julienalliot.bsky.social
-handle.invalid
+coucou540.bsky.social
 nastyn00b.bsky.social
 potard05.bsky.social
 mohandben.bsky.social
