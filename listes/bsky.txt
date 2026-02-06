@@ -1,3 +1,4 @@
+furieuxdesmarees.bsky.social
 morandiniblog2.bsky.social
 berri36.bsky.social
 franckperso.bsky.social
@@ -333,7 +334,7 @@ half24.bsky.social
 fluoelno.bsky.social
 cs57cs.bsky.social
 gabrielmainville.bsky.social
-moute-antilfistes.bsky.social
+handle.invalid
 ubijara.bsky.social
 lyonoumet.bsky.social
 guy-montag-451.bsky.social
