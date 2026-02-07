@@ -103,7 +103,6 @@ dembouli.bsky.social
 wytheta.bsky.social
 boobali.bsky.social
 boulysky.bsky.social
-france-foyer-laic.bsky.social
 section-bering.bsky.social
 laesperenza.bsky.social
 jpmafragh.bsky.social
@@ -140,6 +139,7 @@ watyan.bsky.social
 coeurderocker.bsky.social
 miric91.bsky.social
 doc-loveless.bsky.social
+geopolitis.bsky.social
 raphael-enthoven.bsky.social
 will-nicks-off.bsky.social
 fraternel.bsky.social
