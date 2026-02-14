@@ -1123,7 +1123,6 @@ john.inosta.cc
 spadsou.bsky.social
 nelsondjp.bsky.social
 lci.dev
-libertyf0x.bsky.social
 orynick.fr
 cobrafx.bsky.social
 pretressealexia.bsky.social
