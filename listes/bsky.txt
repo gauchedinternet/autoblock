@@ -1,3 +1,4 @@
+xanatoss.bsky.social
 olafbohun.bsky.social
 vlinderverbinderx.bsky.social
 france-foyer-laic.bsky.social
@@ -231,7 +232,6 @@ dovmimran.bsky.social
 lamiavita.bsky.social
 angel575962.bsky.social
 pierreballoffet.bsky.social
-handle.invalid
 davidcharles1983.bsky.social
 fuzzynutz420.bsky.social
 carabi.bsky.social
