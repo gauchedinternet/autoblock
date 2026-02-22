@@ -1,3 +1,4 @@
+franck-a.bsky.social
 jean-grandgil.bsky.social
 7amalya.bsky.social
 frenchcarcan.bsky.social
@@ -72,7 +73,7 @@ saint-donald.bsky.social
 lesfachosdebarque.bsky.social
 julienchieze.bsky.social
 alkanam.bsky.social
-handle.invalid
+ducalian.bsky.social
 dupont45.bsky.social
 stefapblin.bsky.social
 lionfranc37.bsky.social
@@ -500,7 +501,7 @@ tiresurmondoigt.bsky.social
 napololo.bsky.social
 onycroitsansx.bsky.social
 jackvettriano.bsky.social
-jeanyvesgrenoble.bsky.social
+handle.invalid
 contreligne.bsky.social
 tblanc72.bsky.social
 zoubazouba.bsky.social
