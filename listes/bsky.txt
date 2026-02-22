@@ -1,3 +1,6 @@
+jean-grandgil.bsky.social
+7amalya.bsky.social
+frenchcarcan.bsky.social
 remeor.bsky.social
 jean-marie-lepen.bsky.social
 jvousbz.bsky.social
@@ -55,7 +58,7 @@ ridooben.bsky.social
 vtbbr.bsky.social
 charlatanbagarre.bsky.social
 annwilliams.bsky.social
-handle.invalid
+franciscopolis.bsky.social
 garbitbisson.bsky.social
 wenlenardeen.bsky.social
 alessandro7000.bsky.social
