@@ -3,7 +3,6 @@ jean-grandgil.bsky.social
 7amalya.bsky.social
 frenchcarcan.bsky.social
 remeor.bsky.social
-jean-marie-lepen.bsky.social
 jvousbz.bsky.social
 25410.bsky.social
 saucisson-007.bsky.social
@@ -1679,7 +1678,6 @@ thomasjfavre.bsky.social
 makaplan.bsky.social
 touitaccount.bsky.social
 rdtfr.bsky.social
-cristy7475.bsky.social
 yves6338.bsky.social
 fouteurdemerde.bsky.social
 vincentl.bsky.social
