@@ -1,9 +1,9 @@
+jeanphilki.bsky.social
 sovietsurvey.bsky.social
 cordeless.bsky.social
 simon4680.bsky.social
 ganekorris.bsky.social
 ergizpogachev.bsky.social
-min-ette.bsky.social
 franck-a.bsky.social
 jean-grandgil.bsky.social
 7amalya.bsky.social
@@ -528,7 +528,7 @@ marge71.bsky.social
 flofliflo.bsky.social
 mampau.bsky.social
 nel-o-kan.bsky.social
-conservative-fighter.com
+handle.invalid
 mdakapo.bsky.social
 axio360.bsky.social
 niholaspeijan.bsky.social
@@ -1381,7 +1381,7 @@ dookusroyal.bsky.social
 patriotsbearded.bsky.social
 trhlofficial.bsky.social
 he-won.bsky.social
-republicanfighter.com
+handle.invalid
 maga-45-47.bsky.social
 natejon.bsky.social
 asher312.bsky.social
