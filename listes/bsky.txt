@@ -5,7 +5,6 @@ cordeless.bsky.social
 simon4680.bsky.social
 ganekorris.bsky.social
 ergizpogachev.bsky.social
-min-ette.bsky.social
 jean-grandgil.bsky.social
 7amalya.bsky.social
 frenchcarcan.bsky.social
