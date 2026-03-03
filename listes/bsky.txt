@@ -1,3 +1,4 @@
+nofakemed.bsky.social
 danb14.bsky.social
 louis8778.bsky.social
 zoubirocallaghan.bsky.social
@@ -1127,7 +1128,7 @@ serge-d-urac.bsky.social
 bornog1975.bsky.social
 kittehschrodinger.bsky.social
 pourkkouappa.bsky.social
-chedesgoudes.bsky.social
+chedesgoudes.eurosky.social
 unterseeboot.bsky.social
 dabord.bsky.social
 rebutactu.bsky.social
