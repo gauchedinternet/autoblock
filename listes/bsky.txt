@@ -31,7 +31,6 @@ berri36.bsky.social
 franckperso.bsky.social
 lediabledecuba2.bsky.social
 croisichelles.bsky.social
-maun33800.bsky.social
 icegov.bsky.social
 catacorso.bsky.social
 fishdrake.bsky.social
@@ -410,7 +409,7 @@ gabouts.bsky.social
 psyhodelikus.bsky.social
 nicolasaz.bsky.social
 pandresbb.bsky.social
-pierrezep.bsky.social
+pierrezep.eurosky.social
 jmsp9377.bsky.social
 jean-luchemalencon.bsky.social
 ggerald77.bsky.social
