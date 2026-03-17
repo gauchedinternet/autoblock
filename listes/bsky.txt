@@ -7,7 +7,7 @@ printermunition.bsky.social
 jeanleclerc06.bsky.social
 pizelthetwizel.bsky.social
 jean90.bsky.social
-amiralwolland.bsky.social
+captainadoc.bsky.social
 pelikane.bsky.social
 tochebdr9.bsky.social
 nofakemed.bsky.social
@@ -22,7 +22,7 @@ ganekorris.bsky.social
 ergizpogachev.bsky.social
 jean-grandgil.bsky.social
 7amalya.bsky.social
-frenchcarcan.bsky.social
+frenchcancan1.bsky.social
 remeor.bsky.social
 jvousbz.bsky.social
 25410.bsky.social
@@ -526,7 +526,7 @@ ssely.bsky.social
 ericctout.bsky.social
 pauloparigot.bsky.social
 louisanton.bsky.social
-sylou-6404.bsky.social
+handle.invalid
 damien53.bsky.social
 discoveryhub.bsky.social
 ludox.bsky.social
