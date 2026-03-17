@@ -526,7 +526,7 @@ ssely.bsky.social
 ericctout.bsky.social
 pauloparigot.bsky.social
 louisanton.bsky.social
-handle.invalid
+sylou-6404.bsky.social
 damien53.bsky.social
 discoveryhub.bsky.social
 ludox.bsky.social
@@ -1353,7 +1353,6 @@ hobbesiantroll.bsky.social
 adjustmentauth.bsky.social
 gratefulsteve4.bsky.social
 bluescry.bsky.social
-thatamerican.bsky.social
 nakdnick.bsky.social
 bmg72.bsky.social
 johhnyy39.bsky.social
