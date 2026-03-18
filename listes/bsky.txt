@@ -1,3 +1,4 @@
+francisluther.bsky.social
 sylviebielle.bsky.social
 thespectator1828.bsky.social
 charlesghart.bsky.social
@@ -1452,7 +1453,7 @@ pascalelecourt.bsky.social
 thomasradio.bsky.social
 xavierazalbert.bsky.social
 vlautard.bsky.social
-freezepessione.bsky.social
+handle.invalid
 prof-mesovair.bsky.social
 neo2d.bsky.social
 a-vwzy.bsky.social
