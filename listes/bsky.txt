@@ -294,6 +294,7 @@ hlocean.bsky.social
 o-scheibling.bsky.social
 agent-j.bsky.social
 valrist.bsky.social
+philippeserge.bsky.social
 isabelleforger.bsky.social
 loulou38.bsky.social
 elenabassano.bsky.social
@@ -603,7 +604,6 @@ didoune1.bsky.social
 elontrump34.bsky.social
 marterry.bsky.social
 gastoncailleux.bsky.social
-bebert44.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
 ironda3.bsky.social
