@@ -1308,7 +1308,6 @@ magaempire.bsky.social
 belladonut.bsky.social
 mcarisma.bsky.social
 war-beard.bsky.social
-motown78.bsky.social
 thewayitis.bsky.social
 kennethstark.bsky.social
 mvrwc.com
