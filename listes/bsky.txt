@@ -61,7 +61,6 @@ windscribevpn.bsky.social
 mephisto1900.bsky.social
 reeltchernobylus.bsky.social
 obsdum.bsky.social
-jpbchn.bsky.social
 2afrancky.bsky.social
 olivierwconseil.bsky.social
 serge-g.bsky.social
