@@ -1241,7 +1241,6 @@ ibookchick.bsky.social
 codex-myopic.bsky.social
 trumpyboy.bsky.social
 newsmax.com
-atensnut.bsky.social
 benjamindover101.bsky.social
 fallon2468.bsky.social
 timetowatch.bsky.social
