@@ -68,7 +68,6 @@ jpbchn.bsky.social
 olivierwconseil.bsky.social
 serge-g.bsky.social
 willnicks-off.bsky.social
-damienoel.bsky.social
 montfuji.bsky.social
 efdid.bsky.social
 lepaien.bsky.social
@@ -949,6 +948,7 @@ abitoff.bsky.social
 phildelain.bsky.social
 dextercmoi.bsky.social
 brandonzuckito.bsky.social
+unreal-memories.bsky.social
 hsehnamap.bsky.social
 pc19.bsky.social
 carbolite.bsky.social
