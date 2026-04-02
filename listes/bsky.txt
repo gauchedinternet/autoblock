@@ -1454,7 +1454,7 @@ pascalelecourt.bsky.social
 thomasradio.bsky.social
 xavierazalbert.bsky.social
 vlautard.bsky.social
-handle.invalid
+freezepessione.bsky.social
 prof-mesovair.bsky.social
 neo2d.bsky.social
 a-vwzy.bsky.social
