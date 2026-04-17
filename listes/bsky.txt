@@ -1,3 +1,5 @@
+libertyf0x.eurosky.social
+olivier258.bsky.social
 g-flaire.bsky.social
 chaosgreml.in
 upschwaps.bsky.social
@@ -201,7 +203,6 @@ rosenad.bsky.social
 catchou2411.bsky.social
 redresseurdetorts.bsky.social
 jeandupond.bsky.social
-rugueux.bsky.social
 notrecarapace.bsky.social
 apikorsim.bsky.social
 nicolasquipaie.bsky.social
@@ -552,7 +553,7 @@ djacko.bsky.social
 vascri.bsky.social
 trump-le-boss.bsky.social
 lucrosier.bsky.social
-handle.invalid
+ricardsurbiere.bsky.social
 lombres.bsky.social
 pascal-ua.bsky.social
 philippezav.bsky.social
