@@ -14,7 +14,6 @@ charlesghart.bsky.social
 nondairycanary.bsky.social
 mariannemc.bsky.social
 printermunition.bsky.social
-jeanleclerc06.bsky.social
 pizelthetwizel.bsky.social
 jean90.bsky.social
 captainadoc.bsky.social
@@ -553,7 +552,7 @@ djacko.bsky.social
 vascri.bsky.social
 trump-le-boss.bsky.social
 lucrosier.bsky.social
-ricardsurbiere.bsky.social
+handle.invalid
 lombres.bsky.social
 pascal-ua.bsky.social
 philippezav.bsky.social
