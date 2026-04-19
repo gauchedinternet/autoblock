@@ -19,8 +19,6 @@ mariannemc.bsky.social
 printermunition.bsky.social
 pizelthetwizel.bsky.social
 jean90.bsky.social
-captainadoc.bsky.social
-pelikane.bsky.social
 tochebdr9.bsky.social
 nofakemed.bsky.social
 danb14.bsky.social
@@ -33,7 +31,6 @@ ganekorris.bsky.social
 ergizpogachev.bsky.social
 jean-grandgil.bsky.social
 7amalya.bsky.social
-frenchcancan1.bsky.social
 remeor.bsky.social
 jvousbz.bsky.social
 25410.bsky.social
