@@ -1088,7 +1088,7 @@ rcp42.bsky.social
 titi2-2.bsky.social
 loycossou.bsky.social
 sousoux.eurosky.social
-jjpoitier.bsky.social
+handle.invalid
 linformatrice1.bsky.social
 francaisdesouche.bsky.social
 lv39000.bsky.social
