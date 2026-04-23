@@ -731,7 +731,7 @@ marianne-labu.bsky.social
 laurent-k.bsky.social
 emmanuelyvon.bsky.social
 christel08.bsky.social
-handle.invalid
+chrisled.bsky.social
 pam-ras56.bsky.social
 un-gaul.bsky.social
 karldelta.bsky.social
@@ -1496,7 +1496,6 @@ stanislaslefort.bsky.social
 justunprolo.bsky.social
 souribali.bsky.social
 julien25220.bsky.social
-rtcnmp.bsky.social
 bebertlagauchiasse.bsky.social
 aldo-raines.bsky.social
 astrofion.bsky.social
