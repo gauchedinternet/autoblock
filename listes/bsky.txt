@@ -239,7 +239,7 @@ mdr850.bsky.social
 legrugru.fr
 jabba26.bsky.social
 francescience.bsky.social
-handle.invalid
+benjaminsire.bsky.social
 lel-media.bsky.social
 carolo1er.bsky.social
 ephixstote.bsky.social
@@ -436,7 +436,7 @@ egalitesociale.bsky.social
 plq1.bsky.social
 bigbacchantes.bsky.social
 mathpinsard.bsky.social
-alexhervaud.bsky.social
+alexhervaud.eurosky.social
 obenalors.bsky.social
 stephrnx.bsky.social
 papillondufleuve.bsky.social
