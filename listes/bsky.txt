@@ -1,3 +1,4 @@
+mspeel68.bsky.social
 libertyf0x.eurosky.social
 g-flaire.bsky.social
 chaosgreml.in
@@ -13,7 +14,6 @@ sylviebielle.bsky.social
 thespectator1828.bsky.social
 charlesghart.bsky.social
 nondairycanary.bsky.social
-mariannemc.bsky.social
 printermunition.bsky.social
 pizelthetwizel.bsky.social
 jean90.bsky.social
