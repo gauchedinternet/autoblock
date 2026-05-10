@@ -920,7 +920,7 @@ julofparis.bsky.social
 olivier1802.bsky.social
 bluesskyvisitor.bsky.social
 revenezsurx.bsky.social
-wiljateiwaz.eurosky.social
+handle.invalid
 safran25.bsky.social
 tonincc.bsky.social
 nousvivrons.bsky.social
