@@ -1,3 +1,4 @@
+bordercollie07.bsky.social
 france-foyer-laic.bsky.social
 jm-framery.bsky.social
 mspeel68.bsky.social
@@ -920,7 +921,7 @@ julofparis.bsky.social
 olivier1802.bsky.social
 bluesskyvisitor.bsky.social
 revenezsurx.bsky.social
-handle.invalid
+wiljateiwaz.eurosky.social
 safran25.bsky.social
 tonincc.bsky.social
 nousvivrons.bsky.social
