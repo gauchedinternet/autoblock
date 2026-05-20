@@ -287,7 +287,6 @@ rejeandrouin.bsky.social
 plubellelastreeet.bsky.social
 gerardlantez.bsky.social
 mcweryrich.bsky.social
-lveillbruno.bsky.social
 cerfiainfo.bsky.social
 fgriveaud.bsky.social
 nfpforever.bsky.social
@@ -758,7 +757,6 @@ cc6951.bsky.social
 jeanmariegoursat.bsky.social
 liam34000.bsky.social
 fullsocialornot.bsky.social
-tabliboo.bsky.social
 jeremiejak.bsky.social
 anna-turtle56.bsky.social
 zathraas.bsky.social
