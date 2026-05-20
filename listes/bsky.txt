@@ -1,3 +1,4 @@
+pierrejeanpaul.bsky.social
 ionlibre.bsky.social
 ellision-a.bsky.social
 bordercollie07.bsky.social
@@ -289,7 +290,6 @@ mcweryrich.bsky.social
 lveillbruno.bsky.social
 cerfiainfo.bsky.social
 fgriveaud.bsky.social
-tizzone.bsky.social
 nfpforever.bsky.social
 paullebvre.bsky.social
 votrefrance.bsky.social
