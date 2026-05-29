@@ -14,6 +14,7 @@ rcpinto.bsky.social
 gazelle67.bsky.social
 hikeitup.bsky.social
 alexcemoi.bsky.social
+patricka350.bsky.social
 francisluther.bsky.social
 sylviebielle.bsky.social
 thespectator1828.bsky.social
@@ -261,7 +262,6 @@ divingdarkside.bsky.social
 goliath24.bsky.social
 kaveen.bsky.social
 astigmate.bsky.social
-dovmimran.bsky.social
 lamiavita.bsky.social
 angel575962.bsky.social
 pierreballoffet.bsky.social
