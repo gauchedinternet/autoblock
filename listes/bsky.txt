@@ -413,7 +413,6 @@ jppyv.bsky.social
 jeannotsurbluesky.bsky.social
 gadiamb.bsky.social
 17juin1965.bsky.social
-quentin20.bsky.social
 jyves94.bsky.social
 letapin.bsky.social
 jbmontarnier.bsky.social
