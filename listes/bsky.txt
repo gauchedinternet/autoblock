@@ -1,3 +1,4 @@
+miiatzu.bsky.social
 stanmaxxx.bsky.social
 europ49.bsky.social
 jodu53.bsky.social
@@ -545,7 +546,7 @@ marge71.bsky.social
 flofliflo.bsky.social
 mampau.bsky.social
 nel-o-kan.bsky.social
-conservative-fighter.com
+handle.invalid
 mdakapo.bsky.social
 axio360.bsky.social
 niholaspeijan.bsky.social
