@@ -683,7 +683,6 @@ serotrel.bsky.social
 dami2333.bsky.social
 thomasnekovn.bsky.social
 antifacher.bsky.social
-georges68.bsky.social
 tujibikilepef.bsky.social
 john2troyes.bsky.social
 raphaeiio.bsky.social
@@ -980,7 +979,6 @@ patriotefrance.bsky.social
 valeryornitho.bsky.social
 libertasoff.bsky.social
 loggoutme.bsky.social
-francis-t-88.bsky.social
 dardjiskien.bsky.social
 sysop30.bsky.social
 nathaliebaron.bsky.social
