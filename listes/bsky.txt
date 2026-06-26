@@ -594,7 +594,7 @@ leftfrench.bsky.social
 louisonnevra.bsky.social
 jean-marielebenne.bsky.social
 thierrydom.bsky.social
-trump-757.bsky.social
+n57af.bsky.social
 yoyo8571.bsky.social
 apernoster.bsky.social
 stephane-giordano.bsky.social
@@ -962,7 +962,6 @@ wkg91bf.bsky.social
 laragekimonte.bsky.social
 narcose.bsky.social
 yacmi.bsky.social
-axoulotl08.bsky.social
 seayou.bsky.social
 emilefranc.bsky.social
 toxicjok.bsky.social
