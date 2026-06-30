@@ -553,7 +553,7 @@ marge71.bsky.social
 flofliflo.bsky.social
 mampau.bsky.social
 nel-o-kan.bsky.social
-conservative-fighter.com
+handle.invalid
 mdakapo.bsky.social
 axio360.bsky.social
 niholaspeijan.bsky.social
@@ -1563,7 +1563,6 @@ foxfull.bsky.social
 thibuzz.bsky.social
 thyg71.bsky.social
 y4kamoneye.bsky.social
-phoenix770.bsky.social
 velzic.bsky.social
 drlaskar.bsky.social
 ifyouarefrench.bsky.social
