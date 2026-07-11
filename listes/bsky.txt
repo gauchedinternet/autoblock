@@ -1,3 +1,4 @@
+ingriddurman.bsky.social
 alcalan94.bsky.social
 montmouchet.bsky.social
 dse76.bsky.social
@@ -6,7 +7,6 @@ blork-m.bsky.social
 collimateur.bsky.social
 filoustyle.bsky.social
 nexgen999.bsky.social
-meuxng.bsky.social
 backfromcharly.bsky.social
 frenchdreams.bsky.social
 laac74.bsky.social
