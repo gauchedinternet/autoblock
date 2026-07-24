@@ -1,3 +1,5 @@
+ericwaltr.bsky.social
+jymmyelloco.bsky.social
 jade2k3.bsky.social
 haiku-de-gauche.eurosky.social
 remosvince.bsky.social
@@ -46,6 +48,7 @@ patricka350.bsky.social
 francisluther.bsky.social
 sylviebielle.bsky.social
 thespectator1828.bsky.social
+charlesghart.bsky.social
 nondairycanary.bsky.social
 printermunition.bsky.social
 pizelthetwizel.bsky.social
