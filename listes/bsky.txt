@@ -1,3 +1,4 @@
+pb-29.bsky.social
 ericwaltr.bsky.social
 jymmyelloco.bsky.social
 jade2k3.bsky.social
@@ -936,7 +937,7 @@ nonaucollabo.bsky.social
 alagaddaembassy.bsky.social
 socialus.bsky.social
 buitono.bsky.social
-viga93.bsky.social
+viga93.eurosky.social
 leshumainsdumonde.bsky.social
 julofparis.bsky.social
 olivier1802.bsky.social
