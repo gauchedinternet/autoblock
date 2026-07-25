@@ -975,7 +975,6 @@ carbolite.bsky.social
 alphdelam.bsky.social
 andergsj.bsky.social
 oryx1.bsky.social
-tarektoverso.bsky.social
 axiome-c.bsky.social
 mamanou52.bsky.social
 franck36.bsky.social
