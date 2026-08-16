@@ -6,7 +6,6 @@ gilgauruk.bsky.social
 vrnt.eurosky.social
 saltywaterdragon.bsky.social
 mattbzh35.bsky.social
-xemanobody.bsky.social
 personnalitest.bsky.social
 brunobd11.bsky.social
 goulaff.bsky.social
@@ -1561,7 +1560,6 @@ anyesme.bsky.social
 nowandforever.bsky.social
 frenchie-fra.bsky.social
 will2ba.bsky.social
-clerycy.bsky.social
 sorayabenz.bsky.social
 mfrlucidite92.bsky.social
 mikacam.bsky.social
