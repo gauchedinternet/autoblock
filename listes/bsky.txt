@@ -7,6 +7,7 @@ gilgauruk.bsky.social
 vrnt.eurosky.social
 saltywaterdragon.bsky.social
 mattbzh35.bsky.social
+xemanobody.bsky.social
 personnalitest.bsky.social
 brunobd11.bsky.social
 goulaff.bsky.social
@@ -603,7 +604,6 @@ poissard.bsky.social
 j19862.bsky.social
 gouinetelecom.bsky.social
 charlesmarteloff.bsky.social
-tcqnvp.bsky.social
 johnnyroboto.bsky.social
 jimduchesne.bsky.social
 l-oise-au-rouge.bsky.social
