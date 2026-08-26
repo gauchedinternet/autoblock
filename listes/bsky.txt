@@ -1,3 +1,4 @@
+bombscare.bsky.social
 d3s4.bsky.social
 ripostelaique.com.web.brid.gy
 christian-navis.bsky.social
@@ -1712,6 +1713,7 @@ yves6338.bsky.social
 fouteurdemerde.bsky.social
 vincentl.bsky.social
 lespatriotes75.bsky.social
+djarrel.bsky.social
 imogen1564.bsky.social
 lazykidgadx.bsky.social
 clarence123.bsky.social
