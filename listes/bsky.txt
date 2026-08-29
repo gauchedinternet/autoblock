@@ -1,3 +1,4 @@
+alexia01-01.bsky.social
 bonnemain.bsky.social
 d3s4.bsky.social
 ripostelaique.com.web.brid.gy
@@ -65,6 +66,7 @@ francisluther.bsky.social
 sylviebielle.bsky.social
 thespectator1828.bsky.social
 charlesghart.bsky.social
+nondairycanary.bsky.social
 printermunition.bsky.social
 pizelthetwizel.bsky.social
 jean90.bsky.social
