@@ -1,3 +1,4 @@
+lisnard2027.bsky.social
 alexia01-01.bsky.social
 bonnemain.bsky.social
 bombscare.bsky.social
@@ -204,7 +205,6 @@ aeris.eu.org
 mick81.bsky.social
 zorkmorin.bsky.social
 maitrequenellier.bsky.social
-westbanksurfer.bsky.social
 belnea.bsky.social
 massinnissa.bsky.social
 lair2rien.bsky.social
