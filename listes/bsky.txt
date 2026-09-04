@@ -1,3 +1,4 @@
+herge59.bsky.social
 frostfalcon82.bsky.social
 franceartix.bsky.social
 steappe.bsky.social
@@ -22,7 +23,7 @@ pb-29.bsky.social
 ericwaltr.bsky.social
 jymmyelloco.bsky.social
 jade2k3.bsky.social
-haiku-de-gauche.eurosky.social
+l-essentiel.eurosky.social
 remosvince.bsky.social
 sth-bnh.bsky.social
 michcognac.bsky.social
