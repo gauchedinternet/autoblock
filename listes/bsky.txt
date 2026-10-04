@@ -19,7 +19,6 @@ cudkov.bsky.social
 funfact.eurosky.social
 anthonymeilland.eurosky.social
 jeansebboche.bsky.social
-p-h29.bsky.social
 lucie58.bsky.social
 gallus2gallia.bsky.social
 franceeurope3.bsky.social
