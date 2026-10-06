@@ -1,3 +1,5 @@
+sltlesloosers.bsky.social
+legrandsarrazin.bsky.social
 carracasthehutt.bsky.social
 rubberleatherbbc.bsky.social
 fogson.bsky.social
@@ -23,6 +25,7 @@ cudkov.bsky.social
 funfact.eurosky.social
 anthonymeilland.eurosky.social
 jeansebboche.bsky.social
+p-h29.bsky.social
 lucie58.bsky.social
 gallus2gallia.bsky.social
 franceeurope3.bsky.social
@@ -835,7 +838,6 @@ sebbecker.bsky.social
 revenezlesgauchos.bsky.social
 fajiulong.bsky.social
 superfaf88.bsky.social
-bougeret.fr
 lavraiegauche.bsky.social
 legeneral.bsky.social
 morgan-nicol.bsky.social
