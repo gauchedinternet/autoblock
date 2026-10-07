@@ -1,3 +1,5 @@
+bertrand-lemaire.wsocial.eu
+bertrand-lemaire.bsky.social
 jumpfr.bsky.social
 alexu09.bsky.social
 cortex34.bsky.social
@@ -135,7 +137,7 @@ danb14.bsky.social
 zoubirocallaghan.bsky.social
 moi637313.bsky.social
 jeanphilki.bsky.social
-handle.invalid
+sovietsurvey.bsky.social
 cordeless.bsky.social
 ganekorris.bsky.social
 ergizpogachev.bsky.social
@@ -315,7 +317,7 @@ ptitbob.bsky.social
 max690.bsky.social
 dorclean.bsky.social
 citoyen-fr-01.bsky.social
-handle.invalid
+candylovely.bsky.social
 tonperelaturlutte.bsky.social
 jd-vance-1.bsky.social
 jane1718.bsky.social
@@ -605,7 +607,7 @@ boblecentriste.bsky.social
 vlebotbellec.bsky.social
 adrylian.bsky.social
 prolaps.bsky.social
-handle.invalid
+mathmos33.bsky.social
 nono-le-robot.bsky.social
 philmscr.bsky.social
 praline2513.bsky.social
@@ -1610,7 +1612,7 @@ expatsa.bsky.social
 davidjfromparis.bsky.social
 bruceheavymetal.bsky.social
 avecrenaissance.bsky.social
-handle.invalid
+khristy.bsky.social
 anyesme.bsky.social
 nowandforever.bsky.social
 frenchie-fra.bsky.social
