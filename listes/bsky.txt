@@ -1,3 +1,6 @@
+jumpfr.bsky.social
+alexu09.bsky.social
+cortex34.bsky.social
 le-tpn.eurosky.social
 caplarin.bsky.social
 supremmind.bsky.social
@@ -132,7 +135,7 @@ danb14.bsky.social
 zoubirocallaghan.bsky.social
 moi637313.bsky.social
 jeanphilki.bsky.social
-sovietsurvey.bsky.social
+handle.invalid
 cordeless.bsky.social
 ganekorris.bsky.social
 ergizpogachev.bsky.social
@@ -312,7 +315,7 @@ ptitbob.bsky.social
 max690.bsky.social
 dorclean.bsky.social
 citoyen-fr-01.bsky.social
-candylovely.bsky.social
+handle.invalid
 tonperelaturlutte.bsky.social
 jd-vance-1.bsky.social
 jane1718.bsky.social
@@ -602,7 +605,7 @@ boblecentriste.bsky.social
 vlebotbellec.bsky.social
 adrylian.bsky.social
 prolaps.bsky.social
-mathmos33.bsky.social
+handle.invalid
 nono-le-robot.bsky.social
 philmscr.bsky.social
 praline2513.bsky.social
@@ -651,7 +654,7 @@ trump-le-boss.bsky.social
 lucrosier.bsky.social
 ricardsurbiere.bsky.social
 lombres.bsky.social
-pascal-ua.bsky.social
+handle.invalid
 philippezav.bsky.social
 vince29.bsky.social
 lebuldoseur.bsky.social
@@ -822,7 +825,7 @@ turbo-libre.bsky.social
 louracky.bsky.social
 odileblandino.bsky.social
 marianne-labu.bsky.social
-laurent-k.bsky.social
+handle.invalid
 emmanuelyvon.bsky.social
 christel08.bsky.social
 chrisled.bsky.social
@@ -1607,7 +1610,7 @@ expatsa.bsky.social
 davidjfromparis.bsky.social
 bruceheavymetal.bsky.social
 avecrenaissance.bsky.social
-khristy.bsky.social
+handle.invalid
 anyesme.bsky.social
 nowandforever.bsky.social
 frenchie-fra.bsky.social
