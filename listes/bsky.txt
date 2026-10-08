@@ -1,6 +1,5 @@
 necplus.bsky.social
 bertrand-lemaire.wsocial.eu
-bertrand-lemaire.bsky.social
 jumpfr.bsky.social
 alexu09.bsky.social
 cortex34.bsky.social
