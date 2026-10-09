@@ -164,7 +164,7 @@ fishdrake.eurosky.social
 cammarzunique.bsky.social
 charlybgoodech.bsky.social
 en-fer-de-pa-radis.bsky.social
-jack4net.bsky.social
+handle.invalid
 ternoise.bsky.social
 thierry2a.bsky.social
 notlesarchives.bsky.social
@@ -419,7 +419,7 @@ chtiwaz.bsky.social
 jonathanlamo.bsky.social
 troche68.bsky.social
 actusnonstop.bsky.social
-vermermichel.bsky.social
+handle.invalid
 ocaj.bsky.social
 alexdenom.bsky.social
 massianip.bsky.social
