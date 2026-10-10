@@ -51,7 +51,6 @@ cudkov.bsky.social
 funfact.eurosky.social
 anthonymeilland.eurosky.social
 jeansebboche.bsky.social
-p-h29.bsky.social
 lucie58.bsky.social
 gallus2gallia.bsky.social
 franceeurope3.bsky.social
@@ -164,7 +163,7 @@ fishdrake.eurosky.social
 cammarzunique.bsky.social
 charlybgoodech.bsky.social
 en-fer-de-pa-radis.bsky.social
-handle.invalid
+jack4net.bsky.social
 ternoise.bsky.social
 thierry2a.bsky.social
 notlesarchives.bsky.social
@@ -419,7 +418,7 @@ chtiwaz.bsky.social
 jonathanlamo.bsky.social
 troche68.bsky.social
 actusnonstop.bsky.social
-handle.invalid
+vermermichel.bsky.social
 ocaj.bsky.social
 alexdenom.bsky.social
 massianip.bsky.social
@@ -656,7 +655,7 @@ trump-le-boss.bsky.social
 lucrosier.bsky.social
 ricardsurbiere.bsky.social
 lombres.bsky.social
-handle.invalid
+pascal-ua.bsky.social
 philippezav.bsky.social
 vince29.bsky.social
 lebuldoseur.bsky.social
