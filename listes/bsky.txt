@@ -1,3 +1,4 @@
+havard.mu.social
 obiwan53.bsky.social
 valjo2b.bsky.social
 gladiacrank.bsky.social
@@ -741,7 +742,6 @@ gastoncailleux.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
 ironda3.bsky.social
-jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
 lannig29.bsky.social
