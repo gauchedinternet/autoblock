@@ -1,3 +1,5 @@
+antiboomer.bsky.social
+jacme2tolosa.bsky.social
 onverobin.bsky.social
 marsuip.bsky.social
 ocharr.bsky.social
@@ -14,7 +16,6 @@ stopbullshit.bsky.social
 sixdegres.bsky.social
 jfo83.bsky.social
 papyrusfai.bsky.social
-polpolino604.bsky.social
 broceliandefor.bsky.social
 martinezboloss.bsky.social
 papi2162.bsky.social
