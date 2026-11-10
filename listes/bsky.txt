@@ -1,3 +1,4 @@
+pauloljubljana.eurosky.social
 alnietz.bsky.social
 yaakovl.bsky.social
 antiboomer.bsky.social
@@ -1824,11 +1825,10 @@ stephanef31.bsky.social
 francaisaop.bsky.social
 fenouilleu.bsky.social
 chakalnikov.bsky.social
-jtmunk.bsky.social
+jtmunk.eurosky.social
 thomasjfavre.bsky.social
 makaplan.bsky.social
 touitaccount.bsky.social
-rdtfr.bsky.social
 yves6338.bsky.social
 fouteurdemerde.bsky.social
 vincentl.bsky.social
