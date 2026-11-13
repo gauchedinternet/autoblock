@@ -1,3 +1,4 @@
+cinarca.bsky.social
 deleurmep.bsky.social
 newsrebel.bsky.social
 pepette.bsky.social
@@ -39,7 +40,7 @@ havard.mu.social
 obiwan53.bsky.social
 valjo2b.bsky.social
 gladiacrank.bsky.social
-ronald-trumpet.bsky.social
+ronald-dump.bsky.social
 canadianjedi71.bsky.social
 rando-84.bsky.social
 audranou.bsky.social
