@@ -1,3 +1,4 @@
+filgourm.bsky.social
 cinarca.bsky.social
 deleurmep.bsky.social
 newsrebel.bsky.social
@@ -117,7 +118,6 @@ roiorycteropes.bsky.social
 veritascivis.bsky.social
 xavierprigent4.bsky.social
 jacapel.bsky.social
-arnaud-jumaire.bsky.social
 henrypierrem.bsky.social
 tomoffrance.bsky.social
 lecoqnoirfrance.bsky.social
