@@ -72,7 +72,6 @@ bierelimonade.bsky.social
 hauntedhumans.bsky.social
 fandeborges.bsky.social
 soficincinnati.eurosky.social
-laorenz.bsky.social
 baba91.bsky.social
 steelchicken.bsky.social
 pianocktailiste.bsky.social
@@ -1118,7 +1117,6 @@ abitoff.bsky.social
 phildelain.bsky.social
 dextercmoi.bsky.social
 brandonzuckito.bsky.social
-unreal-memories.bsky.social
 hsehnamap.bsky.social
 pc19.bsky.social
 carbolite.bsky.social
