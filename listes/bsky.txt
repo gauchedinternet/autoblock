@@ -1,3 +1,5 @@
+francesincere.bsky.social
+anthropocene-man.bsky.social
 manchedave47.bsky.social
 ici-et-maintenant.bsky.social
 philippemonteil.bsky.social
@@ -124,7 +126,6 @@ roiorycteropes.bsky.social
 veritascivis.bsky.social
 xavierprigent4.bsky.social
 jacapel.bsky.social
-arnaud-jumaire.bsky.social
 henrypierrem.bsky.social
 tomoffrance.bsky.social
 lecoqnoirfrance.bsky.social
