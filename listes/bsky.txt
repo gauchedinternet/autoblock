@@ -105,7 +105,7 @@ woodaddictfree.bsky.social
 pierredhid.bsky.social
 rfenau.bsky.social
 yakafokon35.bsky.social
-perrettremblayj.bsky.social
+pajope.bsky.social
 olivierhusson.bsky.social
 suisjefou.bsky.social
 kiki41600.bsky.social
@@ -789,7 +789,6 @@ gastoncailleux.bsky.social
 robdeyg.bsky.social
 noelie44.bsky.social
 ironda3.bsky.social
-jade-bx.bsky.social
 jeanpire.bsky.social
 saynotonogg.bsky.social
 lannig29.bsky.social
