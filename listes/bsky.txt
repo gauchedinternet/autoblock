@@ -1,3 +1,4 @@
+fabricepsb.bsky.social
 mbreamworthy.eurosky.social
 racelardfachotroll.bsky.social
 wpbgrenoble.bsky.social
@@ -1555,7 +1556,7 @@ trhlofficial.bsky.social
 he-won.bsky.social
 handle.invalid
 maga-45-47.bsky.social
-natejon.bsky.social
+koalageddon.bsky.social
 asher312.bsky.social
 sweethomemich.bsky.social
 beaviss.bsky.social
